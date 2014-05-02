@@ -1,0 +1,86 @@
+Hallervorden-Spatz syndrome (HSS) is an autosomal recessive neurodegenerative disorder associated with iron accumulation in the brain. Clinical features include extrapyramidal dysfunction, onset in childhood, and a relentlessly progressive course1. Histologic study reveals iron deposits in the basal ganglia2. In this respect, HSS may serve as a model for complex neurodegenerative diseases, such as Parkinson disease3, Alzheimer disease4, Huntington disease5 and human immunodeficiency virus (HIV) encephalopathy6, in which pathologic accumulation of iron in the brain is also observed. Thus, understanding the biochemical defect in HSS may provide key insights into the regulation of iron metabolism and its perturbation in this and other neurodegenerative diseases. Here we show that HSS is caused by a defect in a novel pantothenate kinase gene and propose a mechanism for oxidative stress in the pathophysiology of the disease.
+
+
+
+
+HSS is a clinically heterogeneous group of disorders that includes classical disease with onset in the first two decades, dystonia, high globus pallidus iron with a characteristic radiographic appearance7 and often either pigmentary retinopathy or optic atrophy. Atypical HSS is diagnosed in individuals who may not fit the diagnostic criteria for HSS1, 2 yet have radiographic or pathologic evidence of increased basal ganglia iron.
+
+Using linkage analysis of an extended Amish pedigree, HS1, we previously defined an interval on chromosome 20p13 that contains the HSS gene8. We narrowed the HSS gene critical region by genotyping polymorphic microsatellite markers in families with classical HSS (Fig. 1). There was no evidence for a shared haplotype on disease chromosomes, which precluded our ability to refine the region further by linkage disequilibrium. The 1.4-Mb narrowed interval includes at least 21 known or predicted genes, most of which are expressed in brain (based on EST data). After analysis of 15 of these candidate genes, we observed a 7-bp deletion in the coding sequence in the index family in a gene (here named PANK2) with homology to murine pantothenate kinase 1 (ref. 9). Sequencing of coding regions in other individuals with classical HSS confirms that HSS is due to mutations in PANK2. We found missense mutations resulting in nonconservative amino acid changes or null mutations in 32 of 38 individuals with classical HSS (Table 1 and Fig. 2b). Mutations on both alleles could be accounted for in 22 of these people.
+
+
+Figure 1. Localization of the HSS gene region.
+	
+Figure 1 thumbnail	
+Markers used for genotyping are aligned from telomere to centromere; spacing is not to scale. Markers developed by the authors are indicated by *. Data from families with classical HSS are summarized as follows: black rectangles indicate regions where markers are homozygous in families with known consanguinity, hatched rectangles indicate regions of homozygosity in families with no known consanguinity, and gray rectangles indicate regions included by recombination in nonconsanguineous families. Clear rectangles indicate excluded markers. The original candidate region defined by HS1 of approx3.3 Mb (ref. 8) was reduced by a recombination in family HS7 and a region of homozygosity in family HS35.
+
+
+
+Full FigureFull Figure and legend (18K)
+
+
+Figure 2. Sequence of PANK2 and comparison with other eukaryotic pantothenate kinase genes.
+	
+Figure 2 thumbnail	
+a, PANK2 cDNA sequence including exon 1C and the start of exon 2. The leucine codon CTG may serve as a codon for the initiating methionine, as described in the text. The 20-bp stem-loop structure downstream of this leucine is boxed. The 22-bp palindrome that spans exons 1C and 2 of the transcript is underlined. Nucleotides 32 and 77 are polymorphic (see text). b, Alignment of the core amino acid sequences for pantothenate kinases from Homo sapiens (h), Mus musculus (m), Drosophila melanogaster (d), C. elegans (c) and S. cerevisiae (y). PANK2 amino acid changes in HSS individuals are indicated above the sequence set. We obtained sequences by translating GenBank entries as follows: hPANK1 was assembled from AL522532, AV718110, BG429406 and BF668178; hPANK2 from AL353194, AL031670, BG397740 and AK021791; hPANK3 from AK022961; hPANK4 from AK001644; mPANK1 from AF200357; mPANK2 from AK016755; mPANK3 assembled from ESTs BF140284 (corrected at two positions), BG083868 and BG070339; mPANK4 assembled from ESTs BE554781, BG146074, AA671765 and BE982078; dPANK from AF221546; cPANK from AAB42246 (modified to include the final two exons); and yPANK from NP_010820. We aligned the derived amino acid sequences with the Pileup algorithm from the Genetics Computer Group and plotted relatedness as indicated by the brackets. Amino acids of hPANK2 are numbered consecutively from a to b and are underlined.
+
+
+
+Full FigureFull Figure and legend (49K)
+
+
+Table 1. PANK2 mutations in classical HSS
+	
+Table 1 thumbnail	
+
+Full TableFull Table
+
+We then examined DNA from people with atypical HSS and found PANK2 mutations, all missense, in this group as well (Table 2). These individuals have later onset, and their diverse phenotypes include early-onset Parkinson disease, severe intermittent dystonia, stuttering with palilalia or facial tics with repetitive hair caressing; all have evidence of increased basal ganglia iron. In addition, we tested one consanguineous family (HS4) with pigmentary retinopathy and late-onset dystonia but without radiographic evidence of brain iron accumulation even into their thirties10 and found a homozygous missense mutation. In the group studied, most mutations are unique, with the notable exception of a common Gly411right arrowArg (G411R) mutation, present in both classical and atypical individuals and not observed in 200 control chromosomes. The remaining reported mutations are unlikely to be polymorphisms because we did not see them in 150 ESTs associated with PANK2 or in sequence from people already found to have two deleterious mutations.
+
+
+Table 2. PANK2 mutations in atypical HSS
+	
+Table 2 thumbnail	
+
+Full TableFull Table
+
+Interestingly, atypical subjects HS61, HS62 and HS79 are compound heterozygotes for mutations for which classical subjects HS23, HS27, HS42, HS56 and HS109 are homozygous. This finding suggests interallelic complementation11 and possible multimerization of PANK2. Although we do not know whether PANK2 dimerizes, Escherichia coli pantothenate kinase has been shown to form a homodimer12.
+
+Detailed sequence analysis reveals that PANK2 is a member of a family of eukaryotic genes consisting of a group of six exons that encode homologous core proteins, preceded by a series of alternative initiating exons, some of which encode unique amino-terminal peptides. For example, by 5' RACE and EST analysis, we found evidence for at least five initiating exons for PANK2, but only one of these, exon 1C, has an open reading frame with potential initiation codons that splices in-frame to exon 2 (Fig. 2a). Moreover, we have identified three nonsense mutations within exon 1C in people with classical HSS (but not in controls; Table 1). We find a similar sequence in mouse, with homology in the derived amino acid sequence extending to the leucine codon at nucleotide 31 but diverging 5' of it. There is precedence for use of a leucine initiating codon in humans, which is probably read by a methionine tRNA13. The leucine codon is flanked by a reasonable initiation consensus sequence14. We also note the presence of a stem-loop structure (Fig. 2a) 14 nucleotides downstream from this leucine, the location of which has been shown to enhance translation initiation at nonconserved AUG or non-AUG initiation codons15. It is intriguing that the mouse stem-loop sequence is nearly identical, with only three nucleotide changes, two in the postulated loop of the stem-loop and one that changes a GC to a GU base pair, which implies structural conservation. Because of this strong conservation, we propose that the CUG may serve as an alternative initiation codon for translation in addition to one of the methionine codons downstream. We also note a 22-bp palindrome at the junction of spliced exons 1C and 2. This sequence may form a hairpin structure and thus explain why most PANK2 ESTs terminate just 3' of the palindrome. We speculate that this sequence might serve a regulatory function. We note two polymorphisms in exon 1C: one at nucleotide 32 (T/A) that results in Leu/Gln, respectively, and the other at nucleotide 77 (G/C), resulting in Gly/Ala, respectively. Examination of public ESTs and our own sequencing efforts substantiate these polymorphisms.
+
+Alignment of the predicted core proteins (Fig. 2b) illustrates the relationship between the PANK sequences. Specifically, human PANK1, PANK2 and PANK3, located on chromosomes 10q23, 20p13 and 5q35, respectively, are strikingly similar to their murine orthologs, with amino acid identity varying at most by only a few percent between orthologs and by approximately 20% among paralogs. We found a fourth mammalian pair of orthologs, with PANK4 located on human chromosome 1p36, to be more similar to Saccharomyces cerevisiae and Caenorhabditis elegans sequences than to its mammalian homologs. Interestingly, the pantothenate kinase gene in Drosophila is quite similar to PANK2, a finding that is notable because the Drosophila pantothenate kinase hypomorphic mutant fumble shows neurologic incoordination, with impaired ability to climb, fly and mate16 (K. Afshar, pers. comm.).
+
+Differences in expression pattern among the PANK genes may explain why defects in PANK2 lead to HSS. Although we find expression of PANK1 in heart, liver and kidney, as described previously17, PANK3 is expressed most abundantly in the liver (Fig. 3a). In contrast with these two genes, PANK2 is expressed ubiquitously, including in retina and infant basal ganglia (data not shown). Expression of PANK4 is most abundant in muscle, but it is expressed in all tissues. Quantity and cellular localization of each of these proteins may explain why PANK2 mutations cause HSS.
+
+
+Figure 3. Expression and function of PANK2.
+	
+Figure 3 thumbnail	
+a, Human tissue expression pattern of PANK1, PANK2, PANK3 and PANK4. Arrows indicate the primary transcripts: PANK1, 1.8 kb, 3.0 kb; PANK2, 1.85 kb; PANK3, 1.65 kb; PANK4, 2.6 kb. b, PANK2 rescue of an E. coli temperature-sensitive coaA mutant21. Strain ts9 grows poorly at 37°C, and at 28°C growth is only slightly affected. Rows 1 and 4 are independent clones, transfected with vector only; rows 2 and 3 are independent clones, transfected with plasmid containing human PANK2. Columns represent serial 1:10 dilutions from left to right.
+
+
+
+Full FigureFull Figure and legend (36K)
+
+Pantothenate kinase is an essential regulatory enzyme in coenzyme A (CoA) biosynthesis, catalyzing the cytosolic phosphorylation of pantothenate (vitamin B5), N-pantothenoyl-cysteine and pantetheine18. CoA is the major acyl carrier, playing a central role in intermediary and fatty acid metabolism. In both yeast and fly, each with only one pantothenate kinase gene, the null mutant is inviable16, 19. Pantothenate kinase enzymatic activity has been found in the two eukaryotic proteins from this family studied to date9, 20. Here we provide evidence for pantothenate kinase activity in PANK2 by showing that the human gene PANK2 can rescue the temperature-sensitive E. coli pantothenate kinase mutant21 (Fig. 3b).
+
+HSS is the first inborn error of pantothenate metabolism. We envision that the defects in HSS could result from product deficit and a secondary excess of metabolites downstream of the block. PANK2 mutations are predicted to result in CoA depletion and defective membrane biosynthesis in those tissues in which this is the major pantothenate kinase or in those tissues with the greatest CoA demand. Rod photoreceptors continually generate membranous discs; hence, the retinopathy frequently observed in classical HSS may be secondary to this deficit. It may be possible to therapeutically deliver phosphopantothenate or an alternative intermediary compound to cells in the affected tissues in order to bypass the enzymatic defect and drive CoA synthesis.
+
+We also propose a mechanism of secondary metabolite accumulation as the cause of high iron concentration in the basal ganglia, the cardinal feature of this disorder. In normal brain, nonheme iron accumulates regionally and is highest in the medial globus pallidus and the substantia nigra pars reticulata22, the two regions most severely affected in HSS. Phosphopantothenate, the product of pantothenate kinase, normally condenses with cysteine in the next step in CoA synthesis. In HSS, phosphopantothenate is deficient, leading to cysteine accumulation, and N-pantothenoyl-cysteine and pantetheine will accumulate. High cysteine concentration has been found in the globus pallidus in HSS23. Cysteine undergoes rapid autooxidation in the presence of iron, which results in free radical production, and the cytotoxicity of cysteine is well-documented24. In turn, iron-induced lipid peroxidation, a likely mechanism of secondary pathogenesis in HSS23, 25, 26, is enhanced by free cysteine27, 28, further stressing a cell with impaired membrane biosynthesis. Perturbed cysteine metabolism has been implicated in Parkinson and Alzheimer disease29. Thus, we propose that pantothenate metabolism may represent a common pathway implicated in neurodegeneration.
+
+Finally, in response to the unethical activities of Julius Hallervorden and Hugo Spatz during World War II (ref. 30), we propose a new name for HSS based on knowledge of the underlying biochemistry. We suggest that the group of disorders be known as pantothenate kinase associated neurodegeneration (PKAN).
+
+METHODS
+Genotyping.
+DNA was isolated from whole blood using standard procedures. Lymphoblast cell lines were established for some patients by EBV transformation. DNA was isolated from lymphoblast cell lines or from buccal brushings using the PUREGENE DNA Isolation Kit according to the manufacturer's instructions (Gentra Systems, Minneapolis, MN). Genomic DNA was amplified by the PCR using forward and reverse primers specific for each microsatellite repeat. PCRs (10-50 mul) contained 1timesTaq Polymerase Buffer, 0.05 Units Taq Polymerase (Roche Biochemicals), 0.2 mM each dNTP, 0.5 mM spermidine or 5% DMSO, 0.5 muM forward and reverse primers, and 2 ng/mul genomic DNA template. PCRs were carried out using standard touchdown methods. PCR products were separated on 8% acrylamide (19:1 bisacrylamide:acrylamide), 5.6 M urea, 32% formamide, 1timesTBE gels and blotted to HybondTM-N+ positively charged membranes (Amersham) according to methods published previously8, with the following exceptions: Blots were probed with digoxygenin-labeled repeat oligonucleotides, detected and developed using an Anti-Digoxygenin-Alkaline Phosphatase Antibody protocol (Roche).
+
+RACE.
+To obtain full-length cDNA clones, we performed 5'- and 3'-RACE PCR with library AP1 or AP2 primers in conjunction with gene-specific primers (sequences available on request) from human testis and/or fetal brain Marathon-Ready cDNA libraries and the Marathon RACE kit according to the manufacturer's specifications (Clontech Laboratories, Inc.). Products were cloned into pT-Adv (Clontech) and plasmids were prepared (Qiagen). DNA sequencing was performed by the OHSU-MMI Research Core Facility (http://www.ohsu.edu/core), and sequence determination was performed on a model 377 Applied Biosystems Inc. automated fluorescence sequencer.
+
+Mutation detection.
+Primers for sequence analysis of PANC2 were chosen to amplify exons and their respective intron/exon boundaries after mapping cDNA sequence to genomic sequence. For mutation detection, PCR products were purified by NucleoSpin® Nucleic Acid Purification Kits (Clontech Laboratories, Inc.), quantitated, and sequenced using the same primers as for PCR amplification. Mutation screening of random populations was performed by PCR amplification of CEPH or locally obtained random DNA samples, followed by restriction digestion and resolution on polyacrylamide or agarose gels.
+
+Northern blotting.
+A nylon membrane containing the RNA of several human tissues (Clontech) was incubated with 32P-labeled probes derived from the highly divergent 3'-UTR sequences of the four human pantothenate kinase cDNAs. Hybridization was allowed to occur in PerfectHyb Plus (Sigma); hybridization and washing conditions were according to manufacturer's specifications.
+
+Complementation between E. coli.
+E. coli strain ts9 (leuB6 fhuA2 lacY1 tsx-1 glnV44(AS) gal-6 LAM- hisG1(Fs) argG6 rpsL9 malT1(LamR) xylA7 mtlA2 metB1 coaA1 ilu-1) was obtained from the E. coli Genetic Stock Center, Yale University. Human PANK2 core cDNA was PCR amplified and cloned into BamHI/SalI of pQE-80L (Qiagen). The resulting construct was introduced into ts9 E. coli by standard CaCl2 transformation, selected with ampicillin, serially diluted and incubated at the appropriate temperature.

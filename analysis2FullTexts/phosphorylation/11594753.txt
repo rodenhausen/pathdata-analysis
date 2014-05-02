@@ -1,0 +1,482 @@
+NADP is essential for biosynthetic pathways, en-ergy, and signal transduction. Its synthesis is cata-lyzed by NAD kinase. Very little is known about the
+structure, function, and regulation of this enzyme
+from multicellular organisms. We identified a human
+NAD kinase cDNA and the corresponding gene using
+available database information. A cDNA was amplified
+from a human fibroblast cDNA library and function-ally overexpressed inEscherichia coli.The obtained
+cDNA, slightly different from that deposited in the
+database, encodes a protein of 49 kDa. The gene is
+expressed in most human tissues, but not in skeletal
+muscle. Human NAD kinase differs considerably from
+that of prokaryotes by subunit molecular mass (49 kDa
+vs 30 –35 kDa). The catalytically active homotetramer
+is highly selective for its substrates, NAD and ATP. It
+did not phosphorylate the nicotinic acid derivative of
+NAD (NAAD) suggesting that the potent calcium-mobilizing pyridine nucleotide NAADP is synthesized
+by an alternative route. © 2001 Academic Press
+The importance of NAD and NADP as electron car-riers in energy metabolism has long been known. A
+large number of studies have also established the role
+of these coenzymes in signal transduction pathways
+(reviewed in Ref. 1). NAD is a substrate for two differ-ent types of covalent protein modifications. Poly(ADP-ribosyl)ation participates in the regulation of a variety
+of nuclear processes including base excision repair and
+transcription control (1–3). MonoADP ribosylation rep-resents a mechanism for enzyme regulation in the cy-tosol (4) and in mitochondria (5) and does also influ-ence extracellular processes (6). Furthermore, NAD
+and NADP can be converted into the calcium mobiliz-ing agents cADPR, cADPRP, or NAADP (7, 8). It has
+been suggested that NAD kinase could convert NAAD,
+a physiological intermediate of NAD synthesis, to
+NAADP, a highly potent intracellular calcium-mobilizing agent (1, 9 –11). The cyclic nucleotides
+(cADPR and cADPRP) are synthesized by ADP ribosyl
+cyclase (7–12). There is evidence that this enzyme may
+also synthesize NAADP by catalyzing the exchange of
+nicotinamide for nicotinic acid in NADP (7, 8). How-ever, this reaction requires a low pH and a rather high
+concentration of nicotinic acid. Moreover, in higher
+eukaryotes the catalytic activity of known ADP-ribosyl
+cyclases has been localized to the cell surface (7, 8).
+Therefore, it is reasonable to expect that an alternative
+biosynthetic pathway for the generation of NAADP
+may exist.
+In energy metabolism NADP is primarily required in
+its reduced form as an electron donor for biosynthetic
+reactions such as fatty acid or steroid synthesis. Im-portantly, this coenzyme is also an essential constitu-ent of cellular defense mechanisms against oxidative
+stress. NADPH is the coenzyme for many enzymes
+participating in detoxification reactions including glu-tathione reductase (13), thioredoxin reductase (14) and
+cytochrome P450 reductase (15). The consequences of a
+diminished NADPH concentration in mitochondria
+were shown recently (16). An elevated level of reactive
+oxygen species, DNA fragmentation, lipid peroxida-tion, and mitochondrial damage accompanied by a sig-nificant reduction of the cellular ATP concentration
+was observed when expression of the mitochondrial
+NADPH producing isoform of isocitrate dehydrogenase
+was decreased.
+The multiple functions of NADP in energy metabo-lism, signaling pathways and detoxification reactions
+imply that regulation of its cellular concentration is
+critical for cell survival. The final reactions leading to
+NAD(P) synthesis are well known (17). However, only
+very recently the first molecular characterization of an
+enzyme of this pathway from a multicellular organism
+was presented, namely, for the human nicotinamide
+mononucleotide adenylyl transferase (18, 19). This en-zyme catalyzes the formation of NAD or NAAD from
+Abbreviations used: cADPR(P), (29-phospho) cyclic ADP-ribose;
+NAAD(P), nicotinic acid adenine dinucleotide (phosphate);
+NMN(AT), nicotinamide mononucleotide (adenylyl transferase).
+1
+To whom correspondence and reprint requests should be addressed.
+Fax:149-30-8385 6509. E-mail: mziegler@chemie.fu-berlin.de.
+Biochemical and Biophysical Research Communications288,69 –74 (2001)
+doi:10.1006/bbrc.2001.5735, available online at http://www.idealibrary.com on
+69 0006-291X/01 $35.00
+Copyright © 2001 by Academic Press
+All rights of reproduction in any form reserved.
+ATP and NMN or NaMN, respectively. Primary struc-tures of NAD kinase from a few prokaryotes and the
+yeastSaccharomyces cerevisiaewhere also established
+only very recently (20 –22). The enzyme transfers a
+phosphate group from ATP to NAD. This reaction rep-resents the only known way to generate NADP both in
+prokaryotic and eukaryotic cells.
+The activity of NAD kinase has been assigned to the
+cytosol (23), although in yeast a mitochondrial form
+may exist which accepts both NAD and NADH as sub-strate (24). The enzyme appears to be regulated by the
+redox state of the cell, because NADPH inhibits the
+enzyme’s catalytic activity (25). For plants, sea urchin
+eggs and human neutrophils a stimulation of NAD
+kinase activity by calcium/calmodulin was reported
+(26 –28).
+Given the important role of NADP(H) and thus of
+NAD kinase in a variety of vital processes as well as its
+potential function as a messenger enzyme we aimed
+our study at identifying the primary structure of hu-man NAD kinase and the functional characteristics of
+this enzyme. So far, very limited information, includ-ing essentially only some kinetic and physical charac-teristics of partially purified preparations from pigeon,
+rabbit or bovine liver (25, 29 –31), has been available
+for this enzyme from multicellular organisms. Here we
+describe the cloning and functional overexpression of
+the human enzyme inEscherichia coli.Tissue-specific
+expression of the human NAD kinase was established
+by Northern blot analysis. Kinetic and structural prop-erties of the enzyme were determined and were found
+to be similar to the endogenous NAD kinase which we
+partially purified from bovine liver. The mammalian
+enzymes exhibited substantial differences to their
+counterparts from lower organisms.
+MATERIALS AND METHODS
+Amplification and cloning of a cDNA encoding human NAD kinase.
+Cytoplasmic RNA from SV-40 transformed lung fibroblasts (Wi 38)
+was isolated as described in Ref. (32). Reverse transcription of 3mg
+RNA was performed in RT buffer (Promega). The reaction mixture
+contained 250mM dNTP, 40 U RNase inhibitor (Life Technologies),
+and 140 U M-MLV reverse transcriptase (Promega) and was incu-bated at 37°C for 1 h. RNA was then digested by adding 40 U RNase
+H (Takara). The primers for amplification of NAD kinase cDNA were
+59-AAC GGC ATC AGT GTT TTT CTG-39 and 59-GAT TCG GGC
+CTG GAT AGG-39. PCR was carried out for 35 cycles with an an-nealing temperature of 56°C. The PCR product was cloned into the
+2.1-TOPO vector (Invitrogen) and transformed intoE. colicells ac-cording to the manufacturer’s protocol. For expression cloning the
+cDNA encoding NAD kinase was amplified with a primer containing
+aBamHI recognition site. The PCR product was phosphorylated,
+restricted withBamHI and cloned into the pQE30 expression vector
+(Quiagen) previously digested withSmaI andBamHI. Thereby, the
+recombinant protein was provided with an N-terminal 63His-tag.
+The vector construct was transformed intoE. coli(JM 109) cells.
+DNA sequencing. DNA sequencing was performed with a Thermo
+Sequenase fluorescence-labeled primer cycle sequencing kit (Sequi
+Therm Excel II, Biozyme). Gels were run and analyzed on a DNA
+sequencer model 4000L LI-COR (MWG-Biotech).
+Expression and purification of recombinant human NAD kinase.
+For overexpression the vector construct was transformed intoE. coli
+(M15) cells. An overnight culture was transferred to 500 ml LB
+medium with 100mg/ml ampicillin and 25mg/ml kanamycin. Over-expression was induced by adding isopropyl-b-thiogalactopyranoside
+to a final concentration of 2 mM at an optical density of 0.6 (600 nm)
+of the cells. After4hofexpression the cells were harvested and
+sonicated in lysis buffer (10 mM Tris–HCl, pH 7.8). The cell lysate
+was incubated for 5 min at 60°C. After centrifugation the superna-tant was applied to a DEAE column. The column was washed with
+lysis buffer containing 100 mM NaCl and elution was carried out
+with a gradient from 100 mM to 1 M NaCl in lysis buffer. Fractions
+containing NAD kinase were pooled and loaded onto a nickel–
+nitrilotriacetic acid column (Qiagen). The column was consecutively
+washed with buffer A (50 mM NaH2PO4, 300 mM NaCl, pH 8.5), with
+buffer A containing 2 M NaCl and with buffer A containing 2 mM
+imidazole. Elution was carried out with a gradient from 2 to 50 mM
+imidazole in buffer A.
+Partial purification of NAD kinase from bovine liver. Bovine liver
+tissue was homogenized in a Waring blender with a buffer containing
+20 mM Na2CO3, 20 mM KCl, 1 mM EDTA, 1 mM DTT, 1 mM PMSF,
+pH 7.5. The homogenate was centrifuged for3hat30,000gand the
+supernatant was incubated for 5 min at 60°C. After centrifugation
+the supernatant was saturated with 60% ammonium sulfate. The
+pellet was diluted with 10 mM Tris–HCl, pH 7.8 and dialyzed
+against the same buffer. This fraction was further purified by DEAE
+chromatography as described above for the recombinant enzyme. For
+some experiments further purification was afforded by affinity chro-matography using a Cibacron blue resin.
+Enzyme assay. NAD kinase activity was assayed by measuring
+the increasing absorbance at 340 nm caused by the reduction of
+NADP to NADPH by glucose-6-phosphate dehydrogenase. The reac-tion was carried out in a solution containing 100 mM Tris–HCl, pH
+7.8, 100 mM KCl, 100 mM NaCl, 10 mM MgCl2, 5 mM ATP, 2 mM
+NAD, 1 mM glucose 6-phosphate, and 1 U glucose-6-phosphate de-hydrogenase. Required changes, e.g., for measurements in the pres-ence of substrate analogs, are indicated in the legends. When desired
+Ca
+21
+or calmodulin were added to final concentrations of 1 mM and
+250 units/ml, respectively.
+If substrate analogs were used, nucleotides were analyzed using a
+125 34-mm polyethylenimine column (Nucleosil 4000-7 PEI,
+Macherey-Nagel) operated on an HPLC system (A¨
+kta purifier,
+Amersham–Pharmacia). Elution was performed isocratically in
+buffer A (25 mM NaH2PO4/Na2HPO4/acetic acid, pH 4.5) for 4 min
+followed by a 15-min gradient to 70% buffer B (25 mM sodium
+phosphate, pH 7.4, 2 M NaCl) at a flow rate of 1 ml/min.
+Size-exclusion chromatography. Gel filtration was conducted us-ing a Superdex 200 HR 10/30 column (Amersham–Pharmacia) which
+was run on the A¨kta purifier system. The buffer contained 50 mM
+Tris–HCl, pH 7.8, 500 mM NaCl. For molecular weight estimation of
+endogenous and recombinant NAD kinase the following proteins
+were used for calibration: thyroglobulin (100mg), ferritin (20mg),
+glutamic acid dehydrogenase (100mg), alcohol dehydrogenase (500
+mg), bovine serum albumin (200 mg), and cytochrome c (20 mg).
+Elution of the proteins was monitored at 280 nm. Elution of NAD
+kinase was detected by assaying eluted fractions for enzyme activity.
+Northern blot analysis. The cDNA probe was obtained by PCR of
+an internal fragment encompassing nucleotides 563–962 of NAD
+kinase cDNA. Two hundred nanograms of the PCR product was
+labeled with 60 mCia-dCTP for4hat37°C and purified by gel
+filtration. The blot containing RNAs from human tissues (OriGene)
+was prehybridized for1hat60°C and hybridized with the cDNA
+probe for 14 h at 60°C. After washing according to Ref. (32) the blot
+was exposed to an X-ray film.
+Kinetic measurements. The kinetic parameters of recombinant
+human NAD kinase were determined assuming Michaelis–Menten
+Vol. 288, No. 1, 2001 BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+70
+kinetics. Maximal velocity (Vmax) and KMvalues for NAD and ATP
+were calculated by nonlinear regression analysis of the data using
+the program SigmaStat. Experiments were conducted in assay me-dium described above at 30°C.
+The dependence of enzyme activity on the temperature was deter-mined using the same medium. The influence of pH was tested at
+30°C using Mes–HCl at pH 5.5–7.0 instead of Tris–HCl as buffer.
+Gel electrophoresis. SDS–polyacrylamide gel electrophoresis was
+conducted according to Ref. (33) using 10% polyacrylamide slab gels.
+Protein determination. Protein concentrations were determined
+using either the biuret procedure or the BCA assay (Pierce) and
+bovine serum albumin as standard.
+RESULTS
+To identify the primary structure of human NAD
+kinase the two initially available protein sequences
+from prokaryotic NAD kinases (20) were used for a
+BLAST search of human EST sequences deposited in
+available data bases (34). The sequences showed sim-ilarity to several eukaryotic proteins of unknown func-tion. A human hypothetical protein, FLJ13052 (Acces-sion No. NP_075394), exhibited significant homology to
+the sequences used for comparison. In the meantime,
+the sequences from E. coli(21) and S. cerevisiae(22)
+have become available. They also exhibit similarity to
+the human and the other two bacterial sequences. The
+human cDNA sequence encoding this protein was used
+to generate primers corresponding to the 59- and 39-terminal sequences of its putative open reading frame.
+Using these primers a cDNA fragment with the ex-pected size of about 1400 bp was amplified from a
+cDNA library prepared from human fibroblasts. This
+product was cloned and sequenced. The obtained cDNA
+comprised a sequence with a start codon including a
+Kozak initiation sequence (ACAATGG) and an in-frame stop codon at nucleotide positions 1339 –1341.
+The sequence was identical to the hypothetical protein
+FLJ13052 with the exception of three differences. A
+nucleotide exchange from A to G at position 1212 that
+does not lead to an amino acid exchange, a nucleotide
+exchange from C to A at position 786 that would
+change an amino acid of the protein from asparagine to
+lysine at position 262 and one missing GAG codon
+reducing the C-terminal polyglutamate stretch from
+ten to nine residues.
+The protein encoded by the cloned cDNA contains
+446 amino acids with a theoretical molecular mass of
+49,228 Da. The protein was overexpressed inE. coli,
+using an expression vector that endowed the protein
+with an N-terminal 63His tag. The recombinant pro-tein was purified by two chromatographic steps (see
+Materials and Methods). As shown in Fig. 1, the size of
+the overexpressed protein, as estimated by SDS–
+PAGE, coincided with that of the predicted polypep-tide. The purified protein catalyzed the synthesis of
+NADP using NAD and ATP as substrates (see below)
+and, therefore, represents indeed human NAD kinase.
+The sequence of the cloned cDNA was used to search
+a human genome database (34) in order to obtain in-formation about the chromosomal localization and or-ganization of the gene encoding NAD kinase. It was
+found that the gene (GenBank Accession No.
+AL031282) is located on chromosome 1 (1p36.21–
+36.33). It represents a DNA stretch of about 14 kb
+length. The coding region is contained in 11 exons
+consisting of 85–180 bp, the introns being of variable
+size ranging from 74 to 4641 bp.
+Tissue-specific expression of the mRNA coding for
+the protein was examined by Northern blot analysis
+(Fig. 2). In most tissues tested a band was detected at
+approximately 3 kb which corresponds to the NAD
+FIG. 1. Overexpression of recombinant human NAD kinase in
+Escherichia coli.Transfected cells were grown and expression in-duced as described under Materials and Methods. Following induc-tion for 0 (lane 1) or 3 h (lane 2) a sample of the bacterial pellet was
+treated with sample buffer and subjected to SDS–PAGE. The sample
+represented by lane 3 contained recombinant human NAD kinase
+purified by Ni
+21
+–NTA and DEAE chromatography as described un-der Materials and Methods.
+FIG. 2. Expression of NAD kinase mRNA in human tissues.
+Northern blot analysis was performed as indicated under Materials
+and Methods using a probe encompassing nucleotides 563–962 of the
+human NAD kinase cDNA. Each lane of the blot contained 2mgof
+mRNA isolated from the indicated tissue.
+Vol. 288, No. 1, 2001 BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+71
+kinase cDNA. In several tissues a minor band of ap-proximately 1.8 kb of unknown origin was also labeled.
+NAD kinase appears to be equally expressed in most
+tissues. However, no expression of NAD kinase was
+detected in skeletal muscle and only little in small
+intestine tissue. In placenta a significantly enhanced
+expression was observed.
+Studies of bacterial NAD kinases revealed that these
+enzymes consist of polypeptides with a subunit molec-ular mass of 30 –35 kDa (20, 21) as opposed to 49 kDa
+of the human enzyme. Moreover, the yeast andE. coli
+enzymes exist as hexamers (21, 22), whereas the hu-man protein apparently consists of only four subunits
+that form the catalytically active enzyme. This conclu-sion was drawn from gel filtration experiments (Fig. 3).
+Similar to the recombinant human NAD kinase, the
+partially purified bovine enzyme also exhibited a na-tive molecular mass of about 200 kDa (Fig. 3). The
+molecular masses of the recombinant human enzyme
+and the partially purified bovine liver enzyme were
+calculated to be about 190 and 210 kDa, respectively.
+Analyses of the catalytic properties of the recombi-nant human enzyme (Table 1) established that the
+substrate affinities for ATP (KM53.3 mM) and NAD
+(KM50.54 mM) are similar to values previously re-ported for the enzyme from bovine liver and other
+animal tissues (23). The specific activity was calculated
+to be 6.7 mmol (min3mg)
+21
+. Both the recombinant
+human enzyme and bovine liver NAD kinase exhibited
+similar characteristics regarding the dependence of
+their catalytic activities on pH and temperature (Table
+1). Both enzymes are quite resistant to heat treatment.
+This is indicated by the rather high temperature opti-mum of about 55°C (Table 1). Moreover, incubation at
+60°C for 5 min resulted in a minimal loss (,5%) of
+activity. The pH optimum is in the alkaline range (pH
+7– 8). Under acidic conditions (pH,5.5), the enzyme is
+readily inactivated.
+Both the human and the bovine enzymes required
+divalent cations for their catalytic activity. That is,
+presumably the substrate nucleotides need to be com-plexes with bound divalent metal ions. The optimal
+concentration of Mg
+21
+-ions was about 10 mM. Several
+other metal ions were also efficient in supporting the
+catalytic activity (Table 2). In fact, zinc and manganese
+ions were preferred over Mg
+21
+. Copper and nickel ions
+were not accepted.
+Human NAD kinase appears to be highly selective
+for its substrates, NAD and ATP. Although ATP could
+be replaced by dATP, the specific activity using GTP as
+phosphoryl donor amounted to less than one tenth of
+that measured in the presence of ATP (Table 3). None
+of the NAD analogs tested was phosphorylated in the
+presence of ATP under the assay conditions used. That
+is, modification of either the purine or the nicotinamide
+FIG. 3. Molecular weight determination of catalytically active
+bovine and recombinant human NAD kinases. Gel filtration of par-tially purified bovine liver or recombinant human NAD kinase was
+conducted as described under Materials and Methods. The proteins
+used for calibration (circles) were thyroglobulin (669 kDa), ferritin
+(440 kDa), glutamic acid dehydrogenase (336 kDa), alcohol dehydro-genase (150 kDa), bovine serum albumin (67 kDa), and cytochromec
+(12.3 kDa). The molecular weight of NAD kinases was calculated
+according to the elution volume of fractions containing NAD kinase
+activity.
+TABLE 1
+Physical and Kinetic Properties of Human NAD Kinase
+Subunit molecular mass
+(calculated)
+49,228 Da
+Subunit composition
+(total molecular mass)
+Homotetramer (200 kDa)
+KMATP 3.3 mM
+KMNAD 0.54 mM
+Vmax 6.7mmol (min3mg protein)21
+Temperature optimum 55°C
+pH optimum 7.5 (7.0–8.0)
+Note.NAD kinase activity was assayed by the enzymatic proce-dure as described under Materials and Methods.
+TABLE 2
+Influence of Metal Ions on the Catalytic Activity
+of Human NAD Kinase
+Mg21
+100
+Zn
+21
+350
+Mn21
+290
+Co
+21
+70
+Ca
+21
+28
+Cu
+21
+n.d.
+Ni
+21
+n.d.
+Note.NAD kinase activity was assayed by the enzymatic proce-dure described under Materials and Methods in the presence of 1
+mM indicated metal ion. The activities (in %) are given related to
+that measured in the presence of 1 mM Mg
+21
+. In the absence of
+divalent metal ions, no activity was detected. n.d., no detectable
+activity.
+Vol. 288, No. 1, 2001 BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+72
+moiety of NAD is sufficient to prevent phosphorylation
+of the substrate (Table 3). Nevertheless, as indicated in
+Table 3, these analogs apparently bind weakly to NAD
+kinase, because they exerted some inhibition of NAD
+phosphorylation. These observations also apply to
+NAAD (Fig. 4) whose phosphorylation would lead to
+the formation of the potent calcium-mobilizing agent
+NAADP (9, 10). Phosphorylation of NAAD by NAD
+kinase was attempted under several conditions includ-ing variations of pH or addition of calmodulin in the
+absence or presence of Ca
+21
+. None of these conditions
+led to any detectable formation of NAADP.
+DISCUSSION
+The present study has established the molecular
+properties of human NAD kinase and has also provided
+important physical and kinetic characteristics of this
+enzyme. Although NAD kinase is essential to all or-ganisms and should be highly conserved, our results
+have revealed significant differences to the enzymes
+from prokaryotes and unicellular eukaryotes (20 –22,
+35). First, the human enzyme has a subunit molecular
+mass of about 49 kDa as opposed to about 30 –35 kDa
+reported for those from prokaryotes. Moreover, subunit
+molecular masses have been reported for partially pu-rified forms of the enzyme from mammalian and avian
+liver (23) that are considerably different from the hu-man form. Perhaps, other proteins had been enriched
+along with (far less amounts of) NAD kinase. In fact, in
+our studies about 5000-fold enriched bovine liver NAD
+kinase preparations contained two prominent protein
+bands at about 35 and 60 kDa (not shown). Second, the
+mammalian enzyme appears to be a catalytically active
+homotetramer, rather than a hexamer, which has been
+reported for the yeast andE. colienzymes. Third, the
+human enzyme exhibits a very stringent substrate
+specificity for NAD and ATP. For example, the bacte-rial and the two isoforms of NAD kinase detected in
+Euglena gracilisreadily accepted GTP as phosphoryl
+donor; oneEuglenaisoform even preferred GTP over
+ATP (35). In contrast, the human enzyme uses GTP
+only at a substantially lower rate (,10% compared to
+ATP). None of the NAD analogs tested served as sub-strate for phosphorylation by the human enzyme.
+Although the pathways of NAD(P) biosynthesis are
+well known, physiological degradation of pyridine nu-cleotides has not been reported. To date, the only
+known class of enzymes leading to specific degradation
+of NAD(P) is represented by the bifunctional NAD
+glycohydrolases/ADP-ribosyl cyclases, the products be-ing ADP-ribose (phosphate), or their cyclized forms (1,
+7, 8, 12). However, the presence of an intracellular
+enzyme of this kind has still to be clearly demon-strated, at least for mammalian cells. In any case, an
+intracellular activity, if present, is very low. While
+NAD may also be utilized by ADP-ribosylating en-zymes, NADP is not a substrate for these reactions.
+Consequently, in the absence of a significant degrada-tion process there should be only a minimal require-ment to resynthesize NADP under normal physiologi-cal conditions. Indeed, NAD kinase activities detected
+in mammalian tissues are rather low and amount to
+FIG. 4. Human NAD kinase does not phosphorylate NAAD. Re-combinant human NAD kinase was incubated in the presence of 5
+mM ATP and 1 mM NAD (curves 1 and 2) or 1 mM NAAD (curve 3).
+Samples were incubated for 1 h (curves 1 and 3) or stopped at zero
+time (curve 2) and immediately analyzed by HPLC as described
+under Materials and Methods. The arrow indicates the elution vol-ume of NAADP as determined by separation of standard compounds.
+Absorbance was measured at 254 nm. The chromatograms were
+shifted along the ordinate to accommodate all three traces.
+TABLE 3
+Substrate Specificity of Human NAD Kinase
+Substrate analog
+Relative
+activity (%)
+a
+Inhibition
+(%)
+b
+GTP 7 0
+dATP 103 —
+3-Acetyl-pyridine adenine dinucleotide n.d. 30
+3-Aldehyde-pyridine adenine dinucleotide n.d. 32
+NAAD n.d. 37
+Nicotinamide guanine dinucleotide n.d. 23
+Nicotinamide hypoxanthine dinucleotide n.d. 24
+ADP-ribose n.d. 0
+Note.NAD kinase activity was assayed by the enzymatic proce-dure if NAD served as phosphoryl acceptor. HPLC analysis was
+used, if NAD analogs were to be phosphorylated (see Materials and
+Methods).
+a
+Phosphorylation of 1 mM NAD by 5 mM GTP or dATP or of NAD
+analogs (at 1 mM) by 5 mM ATP was measured. The values were
+related to the activity measured in the presence of 1 mM NAD and 5
+mM ATP (100%).
+b
+The enzymatic NAD kinase assay was performed in the presence
+of 0.2 mM NAD and 5 mM ATP and the indicated compound at 1 mM
+concentration.
+Vol. 288, No. 1, 2001 BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS
+73
+only a few nanomoles per hour and milligram of pro-tein, even following initial purification steps (24, 25).
+This fact was also observed in the course of the present
+study using bovine liver as enzyme source. On the
+other hand, the gene encoding NAD kinase appears to
+be expressed in most human tissues (Fig. 2). It is
+interesting to note that the expression level is appar-ently elevated in placenta which would be in accor-dance with an increased demand for NADP of this
+rapidly growing tissue. The absence of mRNA encoding
+NAD kinase in skeletal muscle is in perfect agreement
+with the well known metabolic specificity of this tissue.
+That is, in skeletal muscle both the pentose phosphate
+and the fatty acid synthetic pathways are virtually
+absent. It is less obvious, why NAD kinase expression
+in small intestine tissue is very low.
+The specific activity of recombinant human NAD ki-nase amounted to about 6 –7mmol (min3mg)
+21
+, a value
+that suggests that NAD kinase is indeed a low abundance
+protein, if one considers the very low activity measured in
+tissue extracts. The kinetic parameters also indicate that
+the enzyme may be regulated by substrate availability,
+because theKMvalues for both NAD and ATP (about 0.5
+and 3 mM, respectively) are close to the physiological
+concentrations of these nucleotides.
+NAD kinase was found to be unable to catalyze phos-phorylation of the physiological intermediate NAAD,
+at least under the conditions used. This conclusion
+would clearly imply that another pathway should exist
+that leads to NAADP synthesis. In this regard it was
+also intriguing to test the reported stimulatory effect of
+Ca
+21
+/calmodulin on NAD kinase activity. Besides not
+promoting NAADP synthesis, these potential activa-tors had also no influence on NADP synthesis. This
+observation is in apparent contradiction to reports of a
+stimulation, at least regarding the human enzyme (28).
+However, it might be possible that the previously noted
+effect was indirect and perhaps mediated, for example,
+by a calmodulin-dependent kinase

@@ -1,0 +1,374 @@
+phosphylation: Thiamin is pyrophosphorylated id: http://www.reactome.org/biopax/3296482#BiochemicalReaction8
+db: Pubmed
+id: 11342117
+title: Molecular cloning of human thiamin pyrophosphokinase
+-> not OA
+-> Thiamin pyrophosphokinase (TPK, EC 2.7.6.2) catalyses phosphorylation of thiamin to thiamin pyrophosphate, an active enzyme cofactor. (from abstract)
+perfect with noise
+
+db: Pubmed
+id: 11342111
+title: Isolation and characterization of a human thiamine pyrophosphokinase cDNA
+-> not OA
+-> Thiamine triphosphate (TTP) was recently found to be required as the phosphate donor for the phosphorylation of 43K rapsyn of the postsynaptic membrane of the Torpedo electric organ [6].
+noise
+// does not count until pyrophosphorylation verified as another phosphorylation trigger
+//-> Since TDP-dependent enzymes are essential in carbohydrate metabolism and TDP is the precursor for TTP, the utilization and pyrophosphorylation of thiamine are of critical significance to cell viability and function in vertebrates.
+//perfect with noise
+//-> The pyrophosphorylation of thiamine is catalyzed by thiamine pyrophosphokinase (TPK; EC 2.7.6.2) with ATP and magnesium ion.
+//perfect with noise
+
+db: Pubmed
+id: 11435118
+title: The crystal structure of yeast thiamin pyrophosphokinase
+-> not OA
+-> After transport into the cell, thiamin is directly pyrophosphorylated to TPP by thiamin pyrophosphokinase (TPK; Figure 1)
+perfect match with noise
+// does not count until pyrophosphorylation verified as another phosphorylation trigger
+//-> In yeast, TMP is then hydrolyzed to thiamin before undergoing the same pyrophosphorylation reaction as extracellular sources of thiamin
+//perfect match with noies
+//-> These differences corrrelate to the functions of the proteins since the strained cofactor conformation and proximity of the glutamate to N1A are crucial for catalysis in TPP-dependent enzymes 34 and 35 but probably play no part in the pyrophosphorylation of thiamin.
+//perfect match with noise
+
+phosphylation: NAD+ is phosphorylated to NADP+ id: http://www.reactome.org/biopax/3296482#BiochemicalReaction78
+db: Pubmed
+id: 11594753
+title: Structural and functional characterization of human NAD kinase
+->not OA
+-> It did not phosphorylate the nicotinic acid derivative of NAD (NAAD) suggesting that the potent calcium-mobilizing pyridine nucleotide NAADP is synthesized by an alternative route. (from abstract)
+noise
+-> The PCR product was phosphorylated, restricted with BamHI and cloned into the pQE30 expression vector (Quiagen) previously digested withSmaI and BamHI.
+noise
+-> None of the NAD analogs tested was phosphorylated in the presence of ATP under the assay conditions used.
+noise 
+-> That is, modification of either the purine or the nicotinamidemoiety of NAD is sufficient to prevent phosphorylation of the substrate
+noise. unclear what substrate referes to
+-> Nevertheless, as indicated in Table 3, these analogs apparently bind weakly to NAD kinase, because they exerted some inhibition of NAD phosphorylation. 
+partial match
+-> These observations also apply to NAAD (Fig. 4) whose phosphorylation would lead to the formation of the potent calcium-mobilizing agent NAADP (9, 10).
+noise 
+-> Phosphorylation of NAAD by NAD kinase was attempted under several conditions includ-ing variations of pH or addition of calmodulin in the absence or presence of Ca
+noise 
+-> None of the NAD analogs tested served as sub-strate for phosphorylation by the human enzyme.
+noise
+-> Human NAD kinase does not phosphorylate NAAD
+noise
+-> HPLC analysis was used, if NAD analogs were to be phosphorylated (see Materials and Methods).
+noise
+-> Phosphorylation of 1 mM NAD by 5 mM GTP or dATP or of NAD analogs (at 1 mM) by 5 mM ATP was measured.
+partial match
+(some of these noies situations might likely be matches if NAD+ synonyms NAD. However, according to this http://hyperphysics.phy-astr.gsu.edu/hbase/organic/nad.html, NAD can refer to a lower energy version NAD+ and a higher engergy version NADH.
+Therefore these judgments are based on the assumption that we need the exct NAD+ and NADP+)
+NAD synonym with NAD+ on CHebi: https://www.ebi.ac.uk/chebi/searchId.do;45C942DE2EEC68359835BCCCDB30CE71?chebiId=CHEBI:15846
+
+
+phosphylation: PANK2 phosphorylates PanK id: http://www.reactome.org/biopax/3296482#BiochemicalReaction17
+db: Pubmed
+id: 17242360
+title: Activation of human mitochondrial pantothenate kinase 2 by palmitoylcarnitine
+-> OA but not XML
+-> The mature form of human PanK2 resides in the mitochondria where it phosphorylates pantothenate to 4'-phosphopantothenate.
+noise 
+-> Human PanK2 is proposed to localize in the IMS of mitochondria, where it phosphorylates pantothenate (Pan) to form 4'-phosphopantothenate (P-Pan).
+noise
+db: Pubmed
+id: 15105273
+title: Mitochondrial localization of human PANK2 and hypotheses of secondary iron accumulation in pantothenate kinase-associated neurodegeneration
+-> not OA
+-> Pantothenate kinase, an essential regulatory enzyme in coenzyme A (CoA) biosynthesis, catalyzes the phosphorylation of pantothenate (vitamin B5), N-pantothenoyl-cysteine, and pantetheine.
+noise
+db: Pubmed
+id: 12554685
+title: An isoform of hPANK2, deficient in pantothenate kinase-associated neurodegeneration, localizes to mitochondria
+-> not OA
+-> The phosphorylation of pantothenate is the rate-limiting step and is well described in bacteria where eukaryotic pantothenate kinases can complement bacterial mutants, although there is no significant primary sequence similarity (4).
+noise
+db: Pubmed
+id: 11479594
+title: A novel pantothenate kinase gene (PANK2) is defective in Hallervorden-Spatz syndrome
+-> not OA
+-> Pantothenate kinase is an essential regulatory enzyme in coenzyme A (CoA) biosynthesis, catalyzing the cytosolic phosphorylation of pantothenate (vitamin B5), N-pantothenoyl-cysteine and pantetheine18
+noise
+db: Pubmed
+id: 16272150
+title: Biochemical properties of human pantothenate kinase 2 isoforms and mutations linked to pantothenate kinase-associated neurodegeneration
+-> not OA
+-> no sentence contains trigger
+
+phosphylation: FLAD1 phosphorylates FMN id: http://www.reactome.org/biopax/3296482#BiochemicalReaction13
+db: Pubmed
+id: 16643857
+title: Over-expression in Escherichia coli and characterization of two recombinant isoforms of human FAD synthetase
+-> not OA
+-> no sentence contains trigger
+
+phosphylation: RFK:Mg2+ phosphorylates RIB id: http://www.reactome.org/biopax/3296482#BiochemicalReaction12
+db: Pubmed
+id: 12623014
+title: Crystal structure of human riboflavin kinase reveals a beta barrel fold and a novel active site arch
+-> not OA
+-> Riboflavin kinase (RFK) is an essential enzyme catalyzing the phosphorylation of riboflavin (vitamin B2) to form FMN, an obligatory step in vitamin B2 utilization and flavin cofactor synthesis.
+partial match
+-> The first step in human flavocoenzyme biosynthesis is the phosphorylation of riboflavin to form FMN, a reaction catalyzed by riboflavin kinase (RFK, ATP: riboflavin 5'-phosphotransferase, EC 2.7.1.26).
+partial match
+-> RFK is a ubiquitous enzyme catalyzing the phosphorylation of riboflavin (vitamin B2) to form FMN, an obligatory step in vitamin B2 utilization and flavin cofactor synthesis.
+partial match
+(can all also be seen as a noise case when RFK deemded not "synonym enough" for RFK:Mg2+ and hence entirely wrong event described?)
+
+phosphylation: Pyridoxamine is phosphorylated id: http://www.reactome.org/biopax/3296482#BiochemicalReaction26
+db: Pubmed
+id: 15249053
+title: Expression, purification, and kinetic constants for human and Escherichia coli pyridoxal kinases
+-> not OA
+-> Pyridoxal kinase is an ATP dependent enzyme that phosphorylates pyridoxal, pyridoxine, and pyridoxamine forming their respective 5'-phosphorylated esters.
+perfect match with noise
+-> Many bacteria and plants can synthesize PLP de novo from small metabolites, but mammalian cells do not have the biosynthetic pathway and require one of the three vitamin forms, 
+i.e., pyridoxine, pyridoxal, or pyridoxamine or their phosphorylated derivatives [1].
+perfect match with noise
+-> Less information is available on the kinase that phosphorylates PL, PN, and PM. 
+perfect match with noise
+db: Pubmed
+id: 10987144
+title: Human pyridoxal kinase: overexpression and properties of the recombinant enzyme
+-> not OA and only abstract available online
+-> Pyridoxal kinase catalyses the phosphorylation of the vitamin B6.
+noise
+-> Zn2+ is the most effective divalent cation in the phosphorylation of pyridoxal, and the human enzyme has maximum catalytic activity in the narrow pH range of 5.5-6.0.
+noise
+
+phosphylation: Pyridoxine is phosphorylated id: http://www.reactome.org/biopax/3296482#BiochemicalReaction27
+db: Pubmed
+id: 15249053
+title: Expression, purification, and kinetic constants for human and Escherichia coli pyridoxal kinases
+-> not OA
+-> Pyridoxal kinase is an ATP dependent enzyme that phosphorylates pyridoxal, pyridoxine, and pyridoxamine forming their respective 5'-phosphorylated esters.
+perfect match with noise
+-> Many bacteria and plants can synthesize PLP de novo from small metabolites, but mammalian cells do not have the biosynthetic pathway and require one of the three vitamin forms, 
+i.e., pyridoxine, pyridoxal, or pyridoxamine or their phosphorylated derivatives [1].
+perfect match with noise
+-> Less information is available on the kinase that phosphorylates PL, PN, and PM. 
+perfect match with noise
+db: Pubmed
+id: 10987144
+title: Human pyridoxal kinase: overexpression and properties of the recombinant enzyme
+-> not OA and only abstract available online
+-> Pyridoxal kinase catalyses the phosphorylation of the vitamin B6.
+perfect match (vitamin b6 is synonym to pyriodoxine)
+-> Zn2+ is the most effective divalent cation in the phosphorylation of pyridoxal, and the human enzyme has maximum catalytic activity in the narrow pH range of 5.5-6.0.
+noise
+
+phosphylation: 2xPDXK:2xZn2+ phosphorylates PXL id: http://www.reactome.org/biopax/3296482#BiochemicalReaction25
+db: Pubmed
+id: 15249053
+title: Expression, purification, and kinetic constants for human and Escherichia coli pyridoxal kinases
+-> not OA
+-> Pyridoxal kinase is an ATP dependent enzyme that phosphorylates pyridoxal, pyridoxine, and pyridoxamine forming their respective 5'-phosphorylated esters.
+noise (partial match assuming PXL is synonym to pyridoxal)
+-> Many bacteria and plants can synthesize PLP de novo from small metabolites, but mammalian cells do not have the biosynthetic pathway and require one of the three vitamin forms, 
+i.e., pyridoxine, pyridoxal, or pyridoxamine or their phosphorylated derivatives [1].
+noise (partial match assumping PXL is synonym to pyrodoxal)
+-> Less information is available on the kinase that phosphorylates PL, PN, and PM. 
+noise (partial match assuming PXL is synonym to PL)
+db: Pubmed
+id: 10987144
+title: Human pyridoxal kinase: overexpression and properties of the recombinant enzyme
+-> not OA and only abstract available online
+-> Pyridoxal kinase catalyses the phosphorylation of the vitamin B6.
+noise
+-> Zn2+ is the most effective divalent cation in the phosphorylation of pyridoxal, and the human enzyme has maximum catalytic activity in the narrow pH range of 5.5-6.0.
+noise (partial match if PXL synonym to pyridoxal)
+according to http://www.ncbi.nlm.nih.gov/pubmed/3383547 PXL is pyridoxal hydrochloride
+
+phosphylation: COASY phosphorylates DP-CoA id: http://www.reactome.org/biopax/3296482#BiochemicalReaction22
+db: Pubmed
+id: 14514684
+title: Subcellular localization and regulation of coenzyme A synthase
+-> not OA
+-> Therefore, CoA synthase mediates coupling of phosphopantetheine with ATP to form dephospho-CoA and the subsequent phosphorylation of the 3'-hydroxyl group to generate CoA.
+perfect match with noise? (but without the defined triggers, but it still seems right. And assumption that CoA synthase refers to COASY)
+db: Pubmed
+id: 11994049
+title: Identification and characterization of the gene encoding the human phosphopantetheine adenylyltransferase and dephospho-CoA kinase bifunctional enzyme (CoA synthase)
+-> not OA
+-> no sentence contains triggers
+
+
+-----------
+
+binding: 2-amino 3-carboxymuconate semialdehyde transforms non-enzymatically to quinolinate id: http://www.reactome.org/biopax/3296482#BiochemicalReaction72
+db: Pubmed
+id: 9473669
+title: Characterization and functional expression of the cDNA encoding human brain quinolinate phosphoribosyltransferase
+
+binding: A phosphoribosyl group is added to nicotinate to form nicotinate mononucleotide (NaMN) id: http://www.reactome.org/biopax/3296482#BiochemicalReaction81
+db: Pubmed
+id: 13563527
+title: Biosynthesis of diphosphopyridine nucleotide. II. Enzymatic aspects.
+db: Pubmed
+id: 4349867
+title: Nicotinate phosphoribosyltransferase of human erythrocytes. Purification and properties.
+db: Pubmed
+id: 17604275
+title: Elevation of cellular NAD levels by nicotinic acid and involvement of nicotinic acid phosphoribosyltransferase in human cells
+
+binding: MMAA:MUT binds AdoCbl id: http://www.reactome.org/biopax/3296482#BiochemicalReaction50
+db: Pubmed
+id: 16281286
+title: Spectrum of mutations in mut methylmalonic acidemia and identification of a common Hispanic mutation and haplotype
+db: Pubmed
+id: 15523652
+title: Mutations in the MMAA gene in patients with the cblA disorder of vitamin B12 metabolism
+db: Pubmed
+id: 12438653
+title: Identification of the gene responsible for the cblA complementation group of vitamin B12-responsive methylmalonic acidemia based on analysis of prokaryotic gene arrangements
+db: Pubmed
+id: 2567699
+title: Cloning of full-length methylmalonyl-CoA mutase from a cDNA library using the polymerase chain reaction
+
+binding: TCN1 binds Cbl in the circulation id: http://www.reactome.org/biopax/3296482#BiochemicalReaction54
+db: Pubmed
+id: 19832808
+title: Advances in the understanding of cobalamin assimilation and metabolism
+db: ISBN
+id: 0471253901, 9780471253907
+title: Intrinsic factor, haptocorrin and their receptors.
+db: Pubmed
+id: 2777761
+title: Structure of the cDNA encoding transcobalamin I, a neutrophil granule protein
+
+binding: TCII binds Cbl in the circulation id: http://www.reactome.org/biopax/3296482#BiochemicalReaction53
+db: Pubmed
+id: 16537422
+title: Structural basis for mammalian vitamin B12 transport by transcobalamin
+db: Pubmed
+id: 3782074
+title: Purification and molecular characterization of human transcobalamin II
+db: Pubmed
+id: 2777761
+title: Structure of the cDNA encoding transcobalamin I, a neutrophil granule protein
+
+binding: Defective TCII does not bind Cbl in the circulation id: http://www.reactome.org/biopax/3296482#BiochemicalReaction107
+db: Pubmed
+id: 12707225
+title: The transcobalamin codon 259 polymorphism should be designated 776C>G, not 775G>C
+db: Pubmed
+id: 19373259
+title: TC II deficiency: avoidance of false-negative molecular genetics by RNA-based investigations
+db: Pubmed
+id: 12091374
+title: Transcobalamin II 775G>C polymorphism and indices of vitamin B12 status in healthy older adults
+
+binding: TCN1 binds Cbl id: http://www.reactome.org/biopax/3296482#BiochemicalReaction31
+db: Pubmed
+id: 2777761
+title: Structure of the cDNA encoding transcobalamin I, a neutrophil granule protein
+
+binding: GIF binds Cbl id: http://www.reactome.org/biopax/3296482#BiochemicalReaction33
+db: Pubmed
+id: 17954916
+title: Crystal structure of human intrinsic factor: cobalamin complex at 2.6-A resolution
+
+binding: CUBN:AMN binds GIF:Cbl id: http://www.reactome.org/biopax/3296482#BiochemicalReaction34
+db: Pubmed
+id: 20237569
+title: Structural basis for receptor recognition of vitamin-B(12)-intrinsic factor complexes
+db: Pubmed
+id: 10887099
+title: Cubilin P1297L mutation associated with hereditary megaloblastic anemia 1 causes impaired recognition of intrinsic factor-vitamin B(12) by cubilin
+db: Pubmed
+id: 10080186
+title: Mutations in CUBN, encoding the intrinsic factor-vitamin B12 receptor, cubilin, cause hereditary megaloblastic anaemia 1
+db: Pubmed
+id: 12590260
+title: Amnionless, essential for mouse gastrulation, is mutated in recessive hereditary megaloblastic anemia
+db: Pubmed
+id: 17954916
+title: Crystal structure of human intrinsic factor: cobalamin complex at 2.6-A resolution
+db: Pubmed
+id: 14576052
+title: The functional cobalamin (vitamin B12)-intrinsic factor receptor is a novel complex of cubilin and amnionless
+db: Pubmed
+id: 22631584
+title: Imerslund-Gräsbeck syndrome: new mutation in amnionless
+
+binding: Defective GIF does not bind Cbl id: http://www.reactome.org/biopax/3296482#BiochemicalReaction109
+db: Pubmed
+id: 15738392
+title: Hereditary juvenile cobalamin deficiency caused by mutations in the intrinsic factor gene
+db: Pubmed
+id: 22929189
+title: Inherited cobalamin malabsorption. Mutations in three genes reveal functional and ethnic patterns
+
+binding: Defective MMADHC does not bind MMACHC:B12r id: http://www.reactome.org/biopax/3296482#BiochemicalReaction112
+db: Pubmed
+id: 21071249
+title: Interaction between MMACHC and MMADHC, two human proteins participating in intracellular vitamin B?? metabolism
+db: Pubmed
+id: 18385497
+title: Gene identification for the cblD defect of vitamin B12 metabolism
+db: Pubmed
+id: 22832074
+title: Structural features of recombinant MMADHC isoforms and their interactions with MMACHC, proteins of mammalian vitamin B12 metabolism
+db: Pubmed
+id: 23270877
+title: Subcellular location of MMACHC and MMADHC, two human proteins central to intracellular vitamin B(12) metabolism
+db: Pubmed
+id: 15292234
+title: The cblD defect causes either isolated or combined deficiency of methylcobalamin and adenosylcobalamin synthesis
+
+binding: Methionine is reformed id: http://www.reactome.org/biopax/3296482#BiochemicalReaction45
+db: Pubmed
+id: 8968737
+title: Human methionine synthase: cDNA cloning and identification of mutations in patients of the cblG complementation group of folate/cobalamin disorders
+
+binding: cob(II)alamin binds to MTRR:MTR id: http://www.reactome.org/biopax/3296482#BiochemicalReaction43
+db: Pubmed
+id: 17892308
+title: Mechanism of coenzyme binding to human methionine synthase reductase revealed through the crystal structure of the FNR-like module and isothermal titration calorimetry
+db: Pubmed
+id: 19243433
+title: Cobalamin uptake and reactivation occurs through specific protein interactions in the methionine synthase-methionine synthase reductase complex
+db: Pubmed
+id: 17477549
+title: Protein interactions in the human methionine synthase-methionine synthase reductase complex and implications for the mechanism of enzyme reactivation
+
+binding: MMACHC:cob(II)alamin binds MMADHC id: http://www.reactome.org/biopax/3296482#BiochemicalReaction41
+db: Pubmed
+id: 21071249
+title: Interaction between MMACHC and MMADHC, two human proteins participating in intracellular vitamin B?? metabolism
+db: Pubmed
+id: 18385497
+title: Gene identification for the cblD defect of vitamin B12 metabolism
+db: Pubmed
+id: 22832074
+title: Structural features of recombinant MMADHC isoforms and their interactions with MMACHC, proteins of mammalian vitamin B12 metabolism
+db: Pubmed
+id: 23270877
+title: Subcellular location of MMACHC and MMADHC, two human proteins central to intracellular vitamin B(12) metabolism
+
+binding: 5,10-methenylTHF polyglutamate + H2O <=> 10-formylTHF polyglutamate id: http://www.reactome.org/biopax/3296482#BiochemicalReaction99
+db: Pubmed
+id: 3053686
+title: Primary structure of a human trifunctional enzyme. Isolation of a cDNA encoding methylenetetrahydrofolate dehydrogenase-methenyltetrahydrofolate cyclohydrolase-formyltetrahydrofolate synthetase.
+db: Pubmed
+id: 3871768
+title: C1-Tetrahydrofolate synthase from rabbit liver. Structural and kinetic properties of the enzyme and its two domains.
+
+binding: 10-formylTHF polyglutamate <=> 5,10-methenylTHF polyglutamate + H2O id: http://www.reactome.org/biopax/3296482#BiochemicalReaction93
+db: Pubmed
+id: 3053686
+title: Primary structure of a human trifunctional enzyme. Isolation of a cDNA encoding methylenetetrahydrofolate dehydrogenase-methenyltetrahydrofolate cyclohydrolase-formyltetrahydrofolate synthetase.
+db: Pubmed
+id: 3871768
+title: C1-Tetrahydrofolate synthase from rabbit liver. Structural and kinetic properties of the enzyme and its two domains.
+
+binding: THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate id: http://www.reactome.org/biopax/3296482#BiochemicalReaction92
+db: Pubmed
+id: 3053686
+title: Primary structure of a human trifunctional enzyme. Isolation of a cDNA encoding methylenetetrahydrofolate dehydrogenase-methenyltetrahydrofolate cyclohydrolase-formyltetrahydrofolate synthetase.
+db: Pubmed
+id: 3871768
+title: C1-Tetrahydrofolate synthase from rabbit liver. Structural and kinetic properties of the enzyme and its two domains.
+
+binding: 'Magnesium [cytosol]' is required for 'A phosphoribosyl group is added to nicotinate to form nicotinate mononucleotide (NaMN)' id: http://www.reactome.org/biopax/3296482#Control3
+

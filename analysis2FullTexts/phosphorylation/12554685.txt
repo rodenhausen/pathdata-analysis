@@ -1,0 +1,141 @@
+Abstract
+
+Mutations in the human PANK2 gene have been shown to occur in autosomal-recessive pantothenate kinase-associated neurodegeneration, a syndrome originally described by Hallervorden and Spatz. The kinase catalyses the first and rate-limiting step in the biosynthesis of coenzyme A, a key molecule in energy metabolism. We have determined the exon–intron structure of the hPANK2 gene and identified two alternatively used first exons. The resulting transcripts encode distinct isoforms of hPANK2, one of which carries an N-terminal extension with a predicted mitochondrial targeting signal. An in vitro import assay and in vivo immunolocalization experiments demonstrate a mitochondrial localization of this isoform. We conclude that the symptoms observed in pantothenate kinase-associated neurodegeneration are caused by a deficiency of the mitochondrial isoform and postulate the existence of a complete intramitochondrial pathway for de novo synthesis of coenzyme A.
+
+Previous Section
+Next Section
+DDBJ/EMBL/GenBank accession no. AF494409
+
+Previous Section
+Next Section
+INTRODUCTION
+
+In their original description of this syndrome, Hallervorden and Spatz presented a family with five affected children showing progressive neuronal degeneration and massive iron deposits in basal ganglia as post mortem findings (1). The clinical phenotype includes progressive dystonia, rigidity, choreoathetosis, spasticity, retinitis pigmentosa, optic atrophy, parkinsonism or seizures, reminiscent of the spectrum of symptoms seen in mitochondriopathies.
+
+By linkage analysis, the defective gene was mapped to chromosome 20p12.3 and mutations in the human pantothenate kinase 2 gene (hPANK2) were identified (2). This finding focused attention on a defect in the biosynthesis of coenzyme A (CoA) from vitamin B5, a pathway for which no inherited metabolic defect has been described previously.
+
+Pantothenate kinase is known to catalyse the first out of five steps in CoA biosynthesis (3), which utilizes pantothenate, cysteine and ATP. The phosphorylation of pantothenate is the rate-limiting step and is well described in bacteria where eukaryotic pantothenate kinases can complement bacterial mutants, although there is no significant primary sequence similarity (4). Four highly homologous human pantothenate kinase genes can be identified in silico, but only the mouse homologues of PANK1 and human PANK2 have been shown to have pantothenate kinase activity (2,5,6). The four downstream enzymes of the CoA synthesis pathway have been identified and their enzyme activities have been demonstrated (7,8). Coenzyme A is present in higher concentrations within mitochondria than in the cytosol, however, the location of the enzymes involved in its biosynthesis has not been determined with certainty. So far, biochemical studies have only demonstrated the intramitochondrial presence of the last two steps of the CoA synthesis pathway (9).
+
+Understanding the pathophysiology of the disease requires detailed functional description of the four human pantothenate kinases. As a first step towards hPANK2 characterization, we completed the coding sequence of the gene and analyzed the role of the newly identified N-terminal domain for the subcellular localization of hPANK2. Moreover, we analysed the gene structure of hPANK4 and demonstrated its pantothenate kinase activity by functional complementation experiments.
+
+Previous Section
+Next Section
+RESULTS
+
+Structure of hPANK2
+Using in silico exon prediction methods and experimental RT–PCR approaches, we determined the complete coding sequence and exon intron structure of the hPANK2 gene. The current annotation of the gene in the UCSC genome browser (10) shows a total of eight exons with two alternative N-terminal exons encompassing a genomic region of 35 kb. RT–PCR experiments using primers in the two predicted N-terminal exons (1a and 1b) confirmed the sequence in the database starting with exon 1a (GenBank accession no. AK021791) in several template tissues (brain, fetal brain, testis) and identified a new transcript starting with exon 1b (GenBank accession no. AF494409) using brain cDNA as a template. We failed to amplify a RT–PCR product between exons 1a and 1b, with forward and reverse primers which worked reproducibly for the amplification of other hPANK2 cDNA fragments and RACE experiments were not successful in further extending the 5'UTR; For transcripts encoding the long isoform of the protein, the codon for the translation–initiation methionine was defined as located at position 1 in an 1844 bp RT–PCR product encompassing nucleotides -42 to 1802 (GenBank AF494409). In the transcript encoding the short isoform, an ATG codon is positioned at nucleoide position 312 in exon 2 (GenBank AK021791). This corresponds to nucleotide 874 of the long isoform (Fig. 1). There are five ATGs present within this 312 bp 5'UTR; however, none of them is in-frame with the downstream hPANK2 core sequence. The two transcripts are predicted to encode proteins of 570 and 288 amino acids, respectively. The transcript starting from exon 1b has a coding sequence of 1708 bp and the existence of a transcript of 2.3 kb was shown by northern blot analysis using a probe within exon 1b (Fig. 2). The identical probe used on a Southern blot shows one band (data not shown), indicating a single copy sequence. Transcripts of lower size with unknown function are visible, which are compatible with predicted sizes from repeated EST database entries which represent exons 1–3 (1.2 kb) or exons 1–4 (1.4 kb). Alternative splicing in the 3' region, which may be an additional explanation for these bands, has not been investigated. Compared with the signal in whole brain, the strongest expression is seen in the nucleus caudatus, a tissue belonging to the basal ganglia (Fig. 2).
+
+Figure
+View larger version:
+In this page In a new window
+Download as PowerPoint Slide
+Figure 1. Genomic structure of hPANK2. Two isoforms of hPANK2 transcripts are generated by alternative use of exons 1a or 1b. The potential mitochondrial targeting signal MTS (amino acids 1–46) and two putatitve nuclear localization signals NLS (PLRRRAS amino acids 162–168 and RKKRP amino acids 205–209) are indicated.
+
+Figure
+View larger version:
+In this page In a new window
+Download as PowerPoint Slide
+Figure 2. Expression of the long hPANK2 isoform. A northern blot containing poly A+ RNA from distinct areas of the brain was hybridized with a probe encompassing the first 330 bp of hPANK2 exon 1b. The 2.3 kb transcript (arrow) corresponds to the full length transcript of the gene.
+
+The mouse chromosome 2 region homologous to human chromosome 20p12.3 shows a genomic organisation of the mouse Pank2 gene which is identical to the situation in humans. Two transcripts of mPank2 are annotated, a short isoform (GenBank accession no. XP_130465) with 99% identity to the short human PANK2 mRNA and a long isoform (GenBank accession no. DAA00008) with 82% identity to the corresponding human mRNA.
+
+With the gene structure including N-terminal splice patterns conserved from mouse to man, we analysed the role of the N-terminal domain in the subcellular localization of hPANK2. Analysis of the long isoforms of human and mouse PANK2 using the PSORT program (11), which allows the prediction of protein localization sites, suggests a mitochondrial localization of these proteins and also two potential nuclear targeting signals at the 3' end of exon 1b. In agreement with a potential mitochondrial localization, MITOPROT (12) analyses of the N-terminal sequences of both proteins predicts a high probability (0.96/0.98) of import into mitochondria and a mitochondrial matrix peptidase cleavage site at positions 46 and 30 for human and mouse PANK2, respectively.
+
+Subcellular localization of hPANK2
+A combination of two approaches has been employed to investigate the subcellular localization of the hPANK2 isoforms: to find out if the newly identified N-terminus contains a functional mitochondrial targeting signal, we tested the ability of hPANK2 to be post-translationally imported into isolated mitochondria. Import into mitochondria for proteins targeted to the matrix space is strictly dependent on the membrane potential across the mitochondrial inner membrane. After import, the targeting sequence is proteolytically removed by a matrix localized processing peptidase (MPP) in the majority of cases. The hPANK2 N-terminus corresponding to amino acids 1–315 was used for import experiments in vitro. hPANK2 was efficiently imported in a membrane potential dependent manner into a protease-protected location and import was accompanied with the removal of the predicted signal peptide (Fig. 3). The inefficient processing may be explained by differences in substrate recognition between human and yeast MPP. This experiment argues for a functional in vivo targeting and MPP processing sequence for the N-terminal region of hPANK2.
+
+Figure
+View larger version:
+In this page In a new window
+Download as PowerPoint Slide
+Figure 3. hPANK2 is imported into mitochondria in a membrane potential dependent manner. Mitochondria isolated from a S.cerevisiae wild-type strain were incubated with radiolabeled hPANK2 preprotein (amino acids 1–315) for 15 min in the presence or absence of a membrane potential (‘+??’,‘-??’). Non-imported preproteins were digested with 50 µg/ml proteinase K (PK, each two independent samples) where indicated. The first two lanes show 10% of the radiolabeled material added to the import reaction. Mitochondria were analysed by SDS–PAGE and autoradiography. p, preprotein; m, mature protein.
+
+Immunocytochemistry experiments were performed to investigate the subcellular localization of transiently expressed hPANK2 isoforms in vivo. GFP or myc epitope-tagged hPANK2 fusion protein constructs were generated that were designed to express the short isoform (PANK2-short-GFP) and the long isoform (PANK2-long-GFP) of the protein. To narrow down the region responsible for subcellular targeting of the long isoform, two additional constructs were produced, one expressing the N-terminal fragment unique to the long isoform (PANK2(1–315)-myc), and the other expressing the predicted targeting signal (PANK2(1–54)-GFP) (Fig. 4). These constructs were used for transient transfection experiments with COS-7 cells. The fusion proteins were visualized using primary antibodies against the epitopes and fluorochrome labeled secondary antibodies. As a control mitochondria were visualized using an antibody against mitochondrial single strand binding protein (a-mtSSB). The PANK2-short-GFP fusion protein localized exclusively to the cytoplasm (Fig. 5A), showing a diffuse staining pattern similar to the control constructs pcDNA3.1/myc-His/lacZ (Fig. 5G) and pEGFP-N1 (data not shown). In contrast, the long isoform (PANK2-long-GFP) localized to mitochondria (60% of the transfected cells), the nucleus (30%) or both (10%) (Fig. 5B and C). The subcellular localization of the N-terminal 315 amino acids (PANK2(1–315)-myc) was indistinguishable from the PANK2-long-GFP (Fig. 5D and E), while the fusion protein PANK2(1–54)-GFP carrying the predicted targeting signal exclusively co-localized with mitochondria (Fig. 5F). These results indicate that the first 54 amino acids of hPANK2 protein are sufficient for the mitochondrial targeting of the long hPANK2 isoform and that nuclear localization is mediated by signals C-terminal from the targeting signal and N-terminal from the hPANK2 core domain.
+
+Figure
+View larger version:
+In this page In a new window
+Download as PowerPoint Slide
+Figure 4. Fusion protein constructs used for transient transfection assays. The constructs correspond to hPANK2 fragments of amino acids 292–570 (PANK2-short-GFP), 1–570 (PANK2-long-GFP) 1–315 (PANK2(1–315)-myc) and 1–54 (PANK2(1–54)-GFP). GFP and myc tags are not drawn to scale.
+
+Figure
+View larger version:
+In this page In a new window
+Download as PowerPoint Slide
+Figure 5. Subcellular localization of hPANK2. COS-7 cells transiently transfected with the different fusion constructs were triple stained with anti-mtSSB (red), anti-GFP or anti-myc, respectively (green), and DAPI (blue). Anti-mtSSB plus DAPI staining is shown in column I, anti-GFP or anti-myc plus DAPI staining is shown in column II and the merged figures (without DAPI) are shown in column III. Construct PANK2-short-GFP (A) and the control vector pcDNA3.1/myc-His/lacZ (G) show a diffuse staining pattern throughout the cytoplasm. All constructs carrying the N-terminus of PANK2, PANK2-long-GFP (B), PANK2(1–315)-myc (D), and PANK2(1–54)-GFP (F) show co-localization with the anti-mitochondrial stain. Dual localization was found for the constructs carrying the complete exon 1b, PANK2-long-GFP (C) and PANK2(1–315)-myc (E).
+
+Cloning of hPANK4 and functional complementation of bPanK
+As a first attempt to analyse if there are additional functional pantothenate kinase activities in human cells, which could complement hPANK2 mutations, we determined the genomic structure of human PANK4 and analysed its enzymatic activity. The hPANK4 gene has 18 exons and is spanning 18 kb of genomic DNA. The hPANK4 protein is predicted to have a long C-terminus, carrying a domain of unknown function (DUF89) in addition to the core domain present in all four human PANKs (Fig. 6). This core domain is almost identical with the short isoform of hPANK2 (97% identity). The full-length hPANK4 cDNA was amplified from brain cDNA and cloned into pBluescript (pBS). The pBS-PANK4 plasmid and an empty vector control were transformed into the E.coli strain ts9, which carries a conditionally defective allele of the bacterial pantothenate kinase (bPanK) gene. This strain exhibites poor growth at 37°C and no growth at 41°C. Selection for growth of the transformants at 37°C yielded large colonies that harboured pBS-PANK4 plasmid and only small colonies from the vector control. Subsequently, several colonies were scored for the temperature-dependent growth phenotype at 41°C. All colonies transformed with pBS-PANK4 plasmid grew at the non-permissive temperature, verifying that complementation was not caused by reversion of the host strain phenotype (Fig. 7). In contrast, colonies derived from the vector control did not grow at 41°C.
+
+Figure
+View larger version:
+In this page In a new window
+Download as PowerPoint Slide
+Figure 6.hPANK4 exon intron structure. The PANK core region comprises exons 2–9, a domain of unknown function (DUF89) according to pfam01937.5 ranges from exons 10 to 18. The genomic situation is drawn to scale.
+
+Figure
+View larger version:
+In this page In a new window
+Download as PowerPoint Slide
+Figure 7. hPANK4 functionally complements the defect of bPanK. Growth of E.coli strain ts9 habouring a temperature sensitive allele of bPanK is only slightly affected at 30°C (A), strongly reduced at 37°C (B) and totally impaired at 41°C (C). Rows 1 and 2 are independent clones, transformed with vector only, while rows 3 and 4 are independent clones transformed with plasmid for expression of hPANK4. Columns represent serial 1:5 dilutions from the left to the right.
+
+Previous Section
+Next Section
+DISCUSSION
+
+The phenotype in pantothenate kinase-associated neurodegeneration shows all the hallmarks of a mitochondrial disorder including optic atrophy, muscle hypotonia and basal ganglia degeneration (1). Here we provide evidence for the existence of a mitochondrial isoform of hPANK2 and postulate that the manifestations of the disease are due to a loss of function of this isoform.
+
+Several observations strongly suggest a mitochondrial sublocalization of hPANK2: (i) two alternative transcripts can be amplified by RT–PCR using primers localized 5' to the targeting sequence; (ii) sequence analysis of the hPANK2 gene unravels a canonical mitochondrial targeting sequence which is conserved in mouse; (iii) the targeting sequence is imported into mitochondria using an in vitro assay in yeast; and (iv) transfections of eukaryotic cells with fusion protein constructs localize the protein to mitochondria.
+
+Identification of the two alternative transcripts is only the first step in solving a complex splicing activity that seems to be present for this gene. According to our northern blot experiments with a exon 1b and a 3'UTR probe (data not shown), both transcripts have a similar size, 2.3 kb (long isoform) and 1.9 kb short (isoform), with a longer 5'UTR being present in the transcript coding for the short isoform. This is in accordance with the previously published data and the description of several alternative first exons (2). In addition, alternative splicing in the 3' region, as suggested by the presence of smaller transcripts on the blot using the exon 1b probe, will need further investigation. The functional importance of the short isoform is still unclear, since several out-of-frame ATGs within the 5'UTR of this isoform could theoretically compete with the proposed translation start site at position 312.
+
+The transfection experiments also provide evidence for a nuclear localization of the long isoform, which contains both mitochondrial and nuclear targeting signals. It cannot be completely excluded that these observations are artificial due to unphysiological overexpression of the protein. Further proof for the triple localization of this protein and explanations for their functional roles will require further studies. So far, a nuclear localization of a pantothenate kinase has previously been described for the Drosophila protein Fumble (13). The gene encodes the only protein in the fly proteome with a significant homology to mammalian pantothenate kinases. The mutant phenotype includes uncoordinated movements and sterility. Three distinct transcripts of fumble have been identified, two of which mirror the genomic organization in humans and mouse with a mitochondrial targeting signal present in the long Fumble isoform. A mitochondrial localization was not detected, although this could well be due to the N-terminal flag-tag used for the subcellular localization experiments. It contains five negative charges, which are likely to interfere with the mitochondrial targeting. The tissues affected in PKAN patients must be considered to be postmitotic. It is therefore unlikely that the hypothesized role in mitosis and meioses for the Drosophila Pank is relevant for the pathophysiology seen in the human disorder.
+
+Little is known about the subcellular localization of the enzymatic steps of CoA biosynthesis in cellular compartments other than the cytosol. Biochemical studies from the late seventies have demonstrated the two final steps of the pathway to take place in the mitochondrial matrix (14). Pantothenate kinase activity in mitochondria could not be measured in these experiments but was not entirely excluded. That it is difficult to identify the mitochondrial isoform is not surprising given that the hPANK2 transcript is not very abundant according to RT–PCR experiments and low northern blot signals. This emphasizes the regulatory role of this enzyme in mitochondria. Alternatively it could mean that the mitochondrial isoform is only highly expressed in specific cell types or under specific conditions, which require high PANK turnover in mitochondria. With hPANK2 being active in mitochondria, it becomes likely that a second entire CoA biosynthesis pathway is present in mitochondria. A predicted targeting sequence is present in an EST (GenBank accession no. BI334588) representative for the bifunctional phosphopantetheine adenylyltransferase (E.C.2.7.7.3) and dephosphocoenzyme A kinase (E.C.2.7.1.24), catalysing the two terminal steps of the CoA biosynthesis. This isoform shows an N-terminal extension of 29 amino acids compared to the previously described isoform (7,8). No such sequences are present for the known isoforms of phosphopantothenate-cysteine synthetase (E.C.6.3.2.5) and the phosphopantothenoylcysteine decarboxylase (E.C.4.1.1.36).
+
+Loss of function mutations in hPANK2 core domain are known and are predicted to abolish both hPANK2 isoforms. Mutations in the N-terminal domain (Fig. 1), which have also been described, leave the cytosolic isoform intact (2). Taking into account that the phenotype is indistinguishable in patients with either of these mutations, the following conclusions can be drawn: first, it is the deficiency of the mitochondrial hPANK2 activity which is responsible for the symptoms of the syndrome, and second, the deficiency of the cytosolic activity can be compensated by other kinases. The human PANK4 gene can complement a pantothenate kinase deficient mutant of E.coli. This reflects the high degree of evolutionary conservation of the enzyme and provides functional evidence for a possible compensatory mechanism in PKAN patients.
+
+Mutations in hPANK2 are sufficient to cause symptoms of the syndrome, whether they are also necessary remains an open question. Other pantothenate kinase genes as well as downstream components of the CoA biosynthesis pathway are candidates for mutations with identical or similar phenotypes associated. It also remains to be seen whether combinations of alleles of genes in this pathway have phenotypic consequences. With the gene structure established, a full-length cDNA sequence is now available for mutation screening in patients with PKAN and related phenotypes. An allelic disorder caused by hPANK2 mutations, HARP syndrome has recently been described (15). The future elucidation of the inner mitochondrial CoA pathway will shed light on the mechanisms of neurodegeneration in vulnerable brain structures. The regulation of CoA levels is predicted to play a major role in these investigations.
+
+Previous Section
+Next Section
+MATERIALS AND METHODS
+
+Cloning of hPANK2 and hPANK4 cDNAs andconstruction of expression vectors
+The coding sequence of the long and short isoforms of hPANK2, two N-terminal cDNA fragments corresponding to amino acids 1–315 and 1–54 of hPANK2, respectively, and the complete coding sequence of hPANK4 were amplified in two rounds of PCR from brain cDNA (Marathon-Ready cDNA, BD Biosciences Clontech) using PLATINUM Pfx DNA polymerase (GIBCO BRL) and the following oligonucleotides as primers:
+
+PANK2-long-c1-F, 5'-GGCAGAGGCATGCACAAGTGG-3';
+
+PANK2-long-c1-R, 5'-AGTCATGAAATTGAGTAAGTCTC-3';
+
+PANK2-long-c2-BglII-F, 5-ATTAGATCTCACCATGAGGAGGCTCGGGCCCTTC-3';
+
+PANK2-long-c2-EcoRI-R, 5'-TTTGAATTCCCGGGATCTTCAACAGCTCAAG-3';
+
+PANK2-(54)-c2-EcoRI-R, 5'-TTTGAATTCCCGTGCCTCCGTCCAATGAG-3';
+
+PANK2-(315)-c2-EcoRI-R, 5'-ATTGAATTCCAGTGGCACAAAAGACAGTGTGG-3';
+
+PANK2-short-BglII-F, 5'-ATTAGATCTCACCATGCCTGCTTTTATTCAAATGGGC-3';
+
+PANK4-c1-F, 5'-CTTTCAAAATGGCGGAGTGTGGAG-3';
+
+PANK4-c1-R, 5'-CACATTCCTGACAAGTGACAAGCAG-3';
+
+PANK4-c2NotI-R, ?5'-TATGCGGCCGCCCCCTCGGCTGGGACCTCGTAC-3'; and
+
+PANK4-c2KpnI-R, 5'-TATGGTACCCCCTCGGCTGGGACCTCGTAC-3'.
+
+Each product was cloned into the EcoRV site of the pBluescript II vector (Stratagene) and verified by DNA sequencing. Consequently, each of the inserts was isolated by digestion with the appropriate restriction enzymes and cloned into (1) the bacterial vector pGEM (Promega), the mammalian expression vectors (2) pEGFP-N1 (BD Biosciences Clontech) and (3) pcDNA3.1/myc-His (Invitrogen) and used for the in vitro import assay and immunocytochemistry experiments, respectively.
+
+Northern blot
+A human multiple tissue northern blot (Brain IV, BD Biosciences Clontech) was used for northern blot analysis to determine distribution of hPANK2 transcripts in various brain regions. As probe, a 332 bp cDNA fragment encompassing nucleotides -5–328 of the hPANK2 cDNA was radioactively labeled with [32P]dCTP using random primed DNA labeling kit (Roche). Hybridization with Clontech's ExpressHyb solution and stringent washes were performed according to the protocol of the manufacturer. The filter was exposed to a Kodak Biomax X-ray film for 72 h at -80°C. The control hybridization was carried out using the ß-actin probe supplied with the multiple tissue northern blot. The film exposure time was 1 h.
+
+Protein import into isolated mitochondria
+For SP6 polymerase-driven synthesis of preproteins in vitro, the pGEM construct carrying the PANK2(1–315) fragment was used. Radiolabeled preproteins were synthesized by coupled in vitro transcription/translation reaction in reticulocyte lysate (Promega) in the presence of [35S]methionine according to the published procedures. Mitochondria were isolated from yeast strain w334 grown on lactate medium. Mitochondria were resuspended at 25°C in BSA-containing buffer (0.3 mg/ml fatty acid-free BSA, 0.6 M sorbitol, 80 mM KCl, 10 mM magnesiumacetate, 2 mM KH2PO4, 2.5 mM EDTA, 2.5 mM MnCl2, 50 mM HEPES/KOH pH 7.2) in the presence of 2 mM ATP and 5 mM NADH. To dissipate the membrane potential, 1 µM valinomycin and 20 µM oligomycin were added to the import reaction. Import was initiated by adding 2% (vol/vol) of reticulocyte lysate containing radiolabeled preprotein. After 15 min samples were placed on ice and subsequently treated with or without proteinase K (50 µg/ml) for 15 min to remove non-imported proteins. Protease was inhibited by the addition of 2 mM PMSF. Mitochondria were reisolated and analysed by SDS–PAGE and autoradiography.
+
+Cell culture, transient transfection and immunocytochemistry
+COS-7 cells (DSMZ, Braunschweig) were maintained in Dulbecco's modified eagle's medium with 10% fetal calf serum. Cells were plated on glass cover slips in six-well plates and after 18–24 h in culture transfected with the expression vector constructs using Effectene (QIAGEN) according to the manufacturer's specifications. After 48–60 h of further culturing, the cells were washed with PBS and fixed in 70% acetone/30% methanol at -20°C for 15 min. Following fixation, the cells were permeabilized in PBS, 0.1% NonidetP-40 (Sigma N-6507), then blocked with PBS, 2% BSA and 0.1% NP-40 at 37°C. Primary antibodies, Living Colors A.v. (Jl-8) (BD Biosciences Clontech), anti-myc Antibody (Invitrogen), and anti-mitochondrial single strand binding protein were diluted (1:100) in the blocking solution and incubated for 45 min at 37°C. Cover slips were washed in PBS, 0.1% NP-40 for 30 min. The same incubation and washing procedures were used for the secondary antibodies [anti-mouse-IgG-FITC (Sigma) and anti-rabbit-IgG F(ab')2 fragment-Cy3 (Sigma)]. Cover slips were counterstained with DAPI (1:500) for 1 min, washed with deionized water, mounted on slides using Vectashield (Vector) and visualized using a Leica fluorescence microscope.
+
+Complementation in E.coli
+The E.coli strain ts9 [leuB6 fhuA2 lacY1 tsx-1 glnV44(AS) gal-6 LAM- hisG1(Fs) argG6 rpsL9 malT1(LamR) xylA7 mtlA2 metB1 coaA1 ilu-1] was obtained from the E.coli Genetic Stock Center, Yale University. Human PANK4 cDNA was PCR amplified and cloned into pBS II (Stratagene). The resulting construct was transformed into E.coli strain ts9, selected with ampicillin, serially diluted and incubated at the appropriate temperature.

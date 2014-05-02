@@ -1,0 +1,324 @@
+The ®nal two enzymes in the CoA biosynthetic pathway,
+phosphopantetheine adenylyltransferase (PPAT; EC2.7.7.3) and
+dephospho-CoA kinase (DPCK; EC 2.7.1.24), are separate
+proteins in prokaryotes, but exist as a bifunctional enzyme in pig
+liver. In the present studywe have obtained sequence information
+from puri®ed pig-liver enzyme, and identi®ed the corresponding
+cDNA in a number of species. The human gene localizes to
+chromosome 17q12-21 and contains regions with sequence simi-INTRODUCTION
+CoA is the principal acyl carrier in all living systems, and is
+widely required in synthetic and degradative metabolic pathways
+[1]. The ®ve-step pathway for CoAbiosynthesis frompantothenic
+acid, cysteine andATP is common to all organisms [2]. The genes
+encoding these enzymes have been identi®ed in bacteria (coaAto
+coaE; [3±7]), but the corresponding genes in higher organisms
+are less well characterized, with pantothenate kinase being the
+only eukaryotic sequence yet described [8].
+The ®nal two steps of the pathway are catalysed by phospho-pantetheine adenylyltransferase (PPAT; E.C. 2.7.7.3) and de-phospho-CoA (dPCoA) kinase (DPCK; EC2.7.1.24). The PPAT
+reaction involves the reversible adenylation of 4«-phosphopante-theine to form 3«-dPCoA and PP
+i
+, and DPCK catalyses phos-phorylation of the 3«-hydroxy group of the ribose moiety of
+dPCoA.
+In yeast, the two enzymes are part of a large 350 kDa
+multienzyme complex [9]. Studies inCorynebacterium ammoni-agenessuggested that separate enzymes were present [10], and
+this was subsequently con®rmed on identi®cation of the bacterial
+PPAT}coaD [6]. The crystal structure of the Escherichia coli
+PPAT revealed a dimer of trimers, with each subunit displaying
+a dinucleotide-binding fold [11]. The DPCK}coaEgene has also
+been characterized fromE.coli, and encodes a 22 kDamonofunc-tional enzyme [7].
+We have shown previously that the pig-liver PPAT andDPCK
+reactions are catalysed by a bifunctional enzyme, originally
+designated `CoA synthase' [12]. This migrated to 60 kDa on
+SDS}PAGE, and initially appeared to be a homodimer, which
+Abbreviations used: DPCK, dephospho-CoA kinase; dPCoA, dephospho-CoA; DTT, dithiothreitol ; EST, expressed sequence tag; MMLV, Moloney-murine-leukaemia virus; PPAT, phosphopantetheine adenylyltransferase; TPCK, tosylphenylalanylchloromethane.
+1
+To whom correspondence should be addressed (e-mail mworrall!ucd.ie).
+The nucleotide sequence data reported for the human and pig PPAT/DPCK cDNA will appear in DDBJ, EMBL, GenBank2and GSDB Nucleotide
+Sequence Databases under the accession numbers AY094602 and AY094603 respectively.
+larity to the monofunctional Escherichia coliDPCK and PPAT.
+The recombinant 564-amino-acid human protein con®rmed the
+associated transferase and kinase activities, and gave similar
+kinetic properties to the wild-type pig enzyme.
+Key words: bifunctional enzyme, CoA synthase, coenzyme A,
+dephospho-CoA kinase.
+was susceptible to proteolytic cleavage without loss of either
+activity [13].
+In the present study, we have isolated and sequenced the cyto-solic bifunctional pig-liver enzyme, and have identi®ed the
+corresponding highly conserved gene in a range of species.
+The puri®ed recombinant human enzyme behaved as a mono-meric 62 kDa protein, and con®rmed the associated transferase
+and kinase activities.
+EXPERIMENTAL
+Materials
+Tosylphenylalanylchloromethane (TPCK)-treated trypsin from
+bovine pancreas,l-lactate dehydrogenase from rabbit muscle,
+glucose-6-phosphate dehydrogenase from Leuconostoc mesen-teroides, pyruvate kinase from rabbit muscle, hexokinase from
+baker's yeast, CoA, dPCoA and phosphoenolpyruvate were
+purchased from Sigma±Aldrich Ireland Ltd (Dublin, Ireland).
+NAD+and NADH were obtained from Roche Diagnostics Ltd
+(Lewes, East Sussex, U.K.). Sephadex G-25 (®ne), Sepharose
+CL-6B, DEAE-Sepharose and Superdex 200 HR10}30 were
+from Amersham Biosciences (St Albans, Herts., U.K.). Re-striction endonucleasesBamHI andSalI were fromNewEngland
+Biolabs (U.K.) Ltd (Hitchin, Herts., U.K.). Moloney-murine-leukaemia virus (MMLV) reverse transcriptase was from Pro-mega (Madison, WI, U.S.A.).PfuTurbo2DNAPolymerase and
+BL-21(DE3) E. coli strain were obtained from Stratagene
+(Amsterdam, The Netherlands). pCR22.1 and INVaF" cells
+were from Invitrogen (San Diego, CA, U.S.A.). The expression
+vector ptac
+85 [14] was a gift from Professor P. C. Engel
+#2002 Biochemical Society
+14 S. Aghajanian and D. M. Worrall
+(Department of Biochemistry, University College Dublin,
+Ireland). All other chemicals were of analytical reagent grade.
+Enzyme assays
+All enzyme assays were performed at 25°C, and the change in
+absorbance at 340 nm was monitored. One unit of activity was
+determined as an amount of enzyme that converts 1lmol of
+substrates into corresponding products.
+PPAT activity was assayed in the reverse direction using
+hexokinase and glucose-6-phosphate dehydrogenase to couple
+ATP production with NAD+reduction [15]. The assay mixture
+(1 ml) consisted of 0.1 mM dPCoA, 2 mM PP
+i
+, 2 mM MgCl
+#
+,
+1 mM NAD+, 5 mM glucose, 5 units of hexokinase and 1 unit of
+glucose-6-phosphate dehydrogenase in 50 mM Tris}HCl buffer,
+pH 8.0, containing 0.5 mM dithiothreitol (DTT).
+DPCK assays followed the production of ADP from dPCoA
+and ATP using pyruvate kinase and lactate dehydrogenase as
+coupling enzymes to generate NADH oxidation [16]. The assay
+mixture (1 ml) consisted of 0.1 mM dPCoA, 2 mM ATP, 2 mM
+MgCl
+#
+, 2.5 mM phosphoenolpyruvate, 0.2 mM NADH, 7 units
+of pyruvate kinase and 5 units of lactate dehydrogenase in
+50 mM Tris}HCl buffer, pH 8.0, containing 0.5 mM DTT.
+Purification and sequencing of the wild-type pig-liver bifunctional
+enzyme
+The pig-liver enzyme was puri®ed as described previously [12].
+Size-exclusion chromatography on FPLC Superdex 200 HR
+10}30 was performed both as a ®nal puri®cation step and to
+determine the molecular mass of the protein. The elution buffer
+used was 50 mM Tris}HCl, pH 8.0, containing 150 mM NaCl
+and 0.5 mM DTT.
+The puri®ed 62 kDa material was subjected to N-terminal
+protein sequencing following electroblotting on to a PVDF
+membrane. Sequencing was performed using an Applied Bio-systems Procise HT protein sequencer (Warrington, Cheshire,
+U.K.). For limited proteolysis, TPCK-treated trypsin (1%,
+w}w) was incubated with the puri®ed protein for 10 min at
+25°C, and the resulting 40 kDa and 22 kDa bands were also
+transferred to PVDF for N-terminal sequencing. In addition, the
+60 kDa band was fully cleaved with cyanogen bromide before
+sequence analysis.
+Cloning of the human geneppat/dpck
+The cDNA was ampli®ed from HepG2 cells using reverse
+transcriptase-PCR. Total RNA was prepared using the guani-dinium}phenol-extraction method [17] and ®rst-strand cDNA
+was synthesized using MMLV reverse transcriptase. The
+ppat}dpckgene was ampli®ed with a forward primer (5«-GGGG-ATCCATGGCCGTATTCCGGTCGG-3«) incorporating a
+BamHI restriction site, and a reverse primer (5«-GGGTCG-ACGTCAGCTCCAGGAGCCAGTCTG-3«) incorporating a
+SalI restriction site.
+The PCR product was inserted into the pCR22.1 vector for
+sequence veri®cation. For protein expression purposes, the
+product was excised from pCR22.1 with BamHI andSalI
+restriction enzymes, and cloned into the bacterial expression
+vector ptac
+85.
+Expression and purification of recombinant human PPAT/DPCK
+E.coliBL21(DE3) cells, containingptac85}ppat}dpck, were grown
+at 37°Cin4¬1 litre of Luria±Bertani broth containing 50lg}ml
+ampicillin. At a cell density (D
+'!!
+) of 0.6±0.8, isopropyl
+b-d-thiogalactoside (`IPTG') was added to a ®nal concentration
+of 1 mM, and growth was allowed to continue at 37°C for a
+further 4 h. Cells were harvested, resuspended in 10 mM Tris}
+HCl buffer, pH 8.0, containing 0.5 mM DTT and 0.5 mM
+PMSF, sonicated and centrifuged at 45000gfor 20 min. Puri-®cation was performed using separation techniques similar to
+those used for the wild-type pig enzyme [12]. Brie¯y, follow-ing 30±50%ammonium sulphate fractionation, ion-exchange
+chromatography on Q-Sepharose was performed. The enzyme
+was eluted in a 0±0.6 M linear KCl gradient in 10 mM Tris}HCl
+buffer, pH 8.0, containing 0.5 mM DTT, and activity-containing
+fractions were applied to a Procion Red HE-3B Sepharose
+column, which was developed with a 0±0.6 M KCl gradient in
+50 mM Tris}HCl, pH 8.0}0.5 mM DTT. Following sample
+concentration, a ®nal FPLC Superdex 200 HR 10}30 size
+exclusion stepwas carried out, as described above. PPAT}DPCK
+was stored in 0.1 mM CoA at®20°C. Before use, CoA was
+removed from aliquots by Sephadex G-25 (®ne) chromato-graphy.
+RESULTS
+PPAT and DPCK activities were co-puri®ed from pig-liver
+cytosol as a single protein, as reported previously [12]. Size-exclusion chromatography on FPLC Superdex 200 at the ®nal
+Figure 1 Elution profile from FPLC Superdex 200 HR 10/30 size-exclusion
+chromatography of the pig-liver PPAT/DPCK (a), and N-terminal sequence
+analysis of pig-liver PPAT/DPCK enzyme fragments (b)
+(a) The peak eluted at 62 kDa, as determined by column calibration with known molecular-mass
+markers, and contained both PPAT and DPCK activities. The inset shows an SDS/polyacrylamide
+gel of the peak fraction showing a single 62 kDa band. (b) N-terminal sequence analysis of
+pig-liver PPAT/DPCK fragments was performed following either limited proteolysis by trypsin
+or complete cyanogen bromide cleavage. `X', unidenti®ed amino acid residue.
+#2002 Biochemical Society
+15 Mammalian phosphopantetheine adenylyltransferase and dephospho-CoA kinase
+Figure 2 Alignment of the bifunctional PPAT/DPCK sequences fromHomo sapiens(GenBank2accession no. AY094602),Sus scrofa(AY094603), Mus
+musculus (gi:12836393) andDrosophila melanogaster(gi:10728128)
+Similar residues are shown on a grey-shaded background ; identical residues are shown in reversed-out lettering on a black background. The peptide sequences obtained following CNBr treatment
+of the pig enzyme (Figure 1b) correspond to the following positions : peptide 1, amino acids (aa) 296±315 ; peptide 2, aa 519±536 ; peptide 3, aa 482±500 ;peptide 4, aa 46±64 ; peptide 5, aa
+160±177 ; and peptide 6, aa 370±355. The site for trypsin nicking of the pig enzyme is indicated by an arrow. The HXXH motif characteristic of nucleotidyl transferases and the Walker A-type
+motif common to kinases are underlined. Dros,Drosophila.
+stage of puri®cation revealed that, in the presence of 150 mM
+NaCl, pig-liver PPAT}DPCK eluted as a peak with molecular
+mass of 62 kDa (Figure 1a). This indicates that the protein
+behaves as a monomer, and not a homodimer, as originally
+suggested [13]. N-terminal sequence analysis of the puri®ed
+protein revealed a blocked N-terminus, and internal sequencing
+was performed following either limited trypsin proteolysis or
+cyanogen bromide cleavage (Figure 1b). The sequences obtained
+were used for gene database BLAST search analysis [18].
+Hits were obtained with a number of pig expressed sequence
+tag (EST) sequences (gi :6842495, gi :8274195, gi :14305703,
+gi :13660202, gi :13659612 and gi :11076507). The results
+allowed the corresponding cDNA to be assembled from the pig
+EST sequences, and subsequently in a number of other species.
+ClustalW alignment [19] of the pig, human and mouse sequences
+are shown in Figure 2, and are highly conserved, with greater
+than 96%sequence identity. The Drosophilasequence has
+approx. 35%identity with the mammalian sequences.
+The humanppat}dpckgene is located on chromosome 17q12-21, consists of 10 exons, and incorporates a coding region
+designated previously as a hypothetical nucleotide-binding pro-tein (gi :894177). However, the correct ATG start codon is
+#2002 Biochemical Society
+16 S. Aghajanian and D. M. Worrall
+Figure 3 Bioinformatic determination of functional domains of human PPAT/DPCK
+(a) Gene structure and localization on chromosome 17q12-21, with predicted protein domains below. (b) Sequence alignment between the N-terminal domain (Hs-N; amino acids 1±199) and the
+C-terminal domain (Hs-C; amino acids 357±564) of human PPAT/DPCK and theE. coliDPCK (Ec DPCK) sequence [7]. (c) Alignment of the middle region of PPAT/DPCK (amino acids 200±356)
+with theE. coliPPAT (Ec PPAT) sequence [6]. In (b) and (c), similar residues are shown on a grey-shaded background ; identical residues are shown in reversed-out lettering on a black background.
+Conserved residues also identi®ed as invariant active site residues in prokaryotes [11] are indicated with asterisks in (c).
+#2002 Biochemical Society
+17 Mammalian phosphopantetheine adenylyltransferase and dephospho-CoA kinase
+Table 1 Kinetic characteristics of the human recombinant and the pig-liver wild-type enzymes
+Enzyme assays were carried out at 25°C in 50 mM Tris/HCl buffer, pH 8.0, containing 0.5 mM DTT. TheK
+m
+values for dPCoA in both the PPAT (reverse) and DPCK reactions were measured
+at a constant concentration of PP
+i
+(2 mM) and ATP (1 mM), respectively. The K
+m
+values for both PP
+i
+and ATP were obtained at a constant concentration of dPCoA (0.1 mM). Data shown
+in parentheses are for the wild-type pig liver enzyme.
+Substrate
+PPAT (reverse reaction) DPCK
+K
+m
+(lM) V
+max
+(units/mg) K
+m
+(lM) V
+max
+(units/mg)
+dPCoA 14.7³1.2 (11.1³2.2) 7.75³0.15 (8.13³0.86) 5.2³1.5 (4.1³1.4) 5.11³0.15 (4.37³0.61)
+PP
+i
+272³65 (190³40) 7.5³0.3 ± ±
+ATP ± ± 192³14 (330³100) 5.18³0.04
+upstream from this region, and the ®nal transcribed coding
+region is 1692 bp, giving rise to a 564-amino-acid polypeptide
+chain (Figure 3a).
+Human EST data from different tissues reveal that the gene is
+widely expressed, with cDNA sequence sources including pla-centa, fetal liver, spleen, ovary, stomach, kidney, bone marrow,
+testis, ®broblast, retina, salivary gland, brain, colon, lung, adrenal
+gland, heart, B cells, NT2 neuronal precursor cells, uterus and
+prostate. At least 294 current human EST sequences can now be
+annotated as PPAT}DPCK, in addition tomany sequences from
+other species.
+The C-terminal 208-amino-acid region of the gene is similar to
+that of the E. coliDPCK, with 24%identity (Figure 3b). This
+was noted previously following sequencing of thecoaEgene [7],
+but the particular alignment shown had used a human sequence
+that was partially out of frame. Interestingly, there is also
+internal homology within the human protein sequence, with an
+N-terminal region aligning with the C-terminal one (Figure 3b).
+A central domain of 157 amino acids shows weak sequence
+similarity (18%identity) with the bacterial PPAT (Figure 3c),
+although theE.coli coaDgene has not been reported to have any
+mammalian counterparts. This PPAT region contains the His-Xaa-Xaa-His motif (where `Xaa' represents `any amino acid')
+found in the nucleotidyl transferase superfamily, which is thought
+to be involved in phosphodiester cleavage [20]. The DPCK C-terminal region contains a conserved Walker A-type kinase motif
+(GISGSGKS) involved in ATP binding [21].
+Proteolytic nicking of the pig enzyme by trypsin to yield
+40 kDa and 22 kDa fragments has been reported, which does not
+effect either activity or the proposed tertiary structure [13]. The
+sequence analysis of the resulting 40 kDa band resulting from
+SDS}PAGE (the 22 kDa band N-terminal was blocked) shows
+that this nicking occurs after position Arg")", suggesting that an
+exposed region exists between the N-terminal region and the
+PPAT domain.
+The human PPAT}DPCK cDNA was cloned from HepG2
+cells and the sequence was veri®ed (submitted to GenBank2;
+accession number AY094602). Expression and puri®cation of the
+recombinant human protein was performed, and activity assays
+con®rmed that the human gene encodes the bifunctional enzyme
+PPAT}DPCK. Size-exclusion chromatography on an FPLC
+Superdex 200 column showed that the human recombinant
+protein behaved like the pig-liver wild-type enzyme, eluting as a
+single peak of 62 kDa, suggesting a monomeric native structure
+(the predicted molecular mass from the open reading frame is
+62329 Da).
+Analysis of kinetic parameters of the human recombinant
+enzyme and the pig-liver wild-type enzyme was performed for the
+PPAT (reverse) reaction and for the DPCK reaction. The results
+of kinetic analysis are shown in Table 1 (parameters for the pig-liver wild-type enzyme are given in parentheses), and indicate
+that the kinetic properties of the human recombinant PPAT}
+DPCK are very similar to those of the pig enzyme, as was
+anticipated from the high level of sequence similarity.
+DISCUSSION
+Current knowledge of the CoA biosynthetic enzymes in higher
+organisms has not kept pace with the identi®cation and charac-terization of the corresponding genes in bacteria. Previous
+biochemical evidence suggested that the mammalian PPAT and
+DPCK enzymes exist as a bifunctional enzyme [12,22], where
+monofunctional counterparts are found in bacteria. We have
+now identi®ed the gene encoding the bifunctional enzyme, and
+have veri®ed the activities to be associated with the 564-amino-acid recombinant human protein.
+There is no evidence for any CoA transport system in multi-cellular organisms, and it is assumed that each cell has the ability
+to generate an independent pool of CoA using the biosynthetic
+pathway. This is borne out by the fact that the expressed
+sequence for the bifunctional PPAT}DPCK is found in a wide
+range of tissues, and annotation of this gene will now aid in the
+designationof a large number of previously `unknown' sequences
+in all higher organisms.
+It is possible that monofunctional enzymes may also exist in
+higher organisms, particularly in view of mitochondrial subfrac-tionation studies,which suggest differences inactivitydistribution
+between PPAT and DPCK [23]. However, no other genes were
+identi®ed onBLASTanalysis of the human genome in the present
+study.
+Following alignment analysis with the known monofunctional
+E.colisequences, the protein can be essentially divided into three
+potential domains. The C-terminal domain shows signi®cant
+sequence similarity to theE. coli coaEgene, and is predicted to
+contain the DPCK activity. The N-terminal and C-terminal
+domains demonstrate some intramolecular sequence similarity
+(18%identity), suggesting that a gene-duplication event followed
+by a gene-fusion event may have occurred to give rise to part of
+the bifunctional enzyme. There is also sequence similarity (albeit
+weaker) between the 159-amino-acidE. coliPPAT protein and
+the central region (amino acids 200±356) of the human PPAT}
+DPCKenzyme.Within prokaryotic PPAT sequences, 14 residues
+have been identi®ed as invariant [11], and the crystal structure
+demonstrated that a number of these are involved in dPCoA
+binding. UsingE. coliPPAT numbering, eight of these residues
+(Phe"", His"), Lys%#, Arg)), Gly)*, Phe*', Glu** and Ser"#*) are
+also conserved in the human sequence (Figure 3c). It is likely that
+this region of the human protein forms a Rossmann fold, similar
+to the bacterial PPAT and to class 1 aminoacyl-tRNA synthe-tases.
+#2002 Biochemical Society
+18 S. Aghajanian and D. M. Worrall
+Acrystal structure of themonofunctional DPCKfromHaemo-philus in¯uenzaehas recently been obtained [24], which included
+an ATP-binding P-loop and a CoA-binding site at the interface
+of three domains. It is also likely that the comparable C-terminal
+domain of the bifunctional enzyme adopts a similar structure. It
+is more difficult to predict the overall structure, which may show
+internal dimerization between the similar N- and C-terminal
+regions. Crystallization studies, currently in progress, may also
+shed light on the total number of ATP- and dPCoA-binding
+sites, and the possibility of dPCoA channelling between the two
+activities.
